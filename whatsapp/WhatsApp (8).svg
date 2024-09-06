@@ -1,0 +1,1858 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="595.32" height="841.92" viewBox="0 0 595.32 841.92">
+<defs>
+<clipPath id="clip_698">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M0 785.02H56.9V841.921H0Z"/>
+</clipPath>
+<mask id="mask_699">
+<g transform="matrix(.26399998,0,0,.26399998,-2.5,-2.4999696)">
+<image id="image_700" width="225" height="225" xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAAAAAAb2I2mAAAACXBIWXMAAA7EAAAO
+xAGVKw4bAAABDUlEQVR4nO3PAQ0AIAzAsPs3DSoI2dMq2OZsN78DnnPY57DPYZ/D
+Pod9Dvsc9jnsc9jnsM9hn8M+h30O+xz2Oexz2Oewz2Gfwz6HfQ77HPY57HPY57DP
+YZ/DPod9Dvsc9jnsc9jnsM9hn8M+h30O+xz2Oexz2Oewz2Gfwz6HfQ77HPY57HPY
+57DPYZ/DPod9Dvsc9jnsc9jnsM9hn8M+h30O+xz2Oexz2Oewz2Gfwz6HfQ77HPY5
+7HPY57DPYZ/DPod9Dvsc9jnsc9jnsM9hn8M+h30O+xz2Oexz2Oewz2Gfwz6HfQ77
+HPY57HPY57DPYZ/DPod9Dvsc9jnsc9jnsM9hn8M+h30O+xz27T+8MhkGy0xfbc0A
+AAAASUVORK5CYII="/>
+</g>
+</mask>
+<clipPath id="clip_702">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M467.4 820.08H594.601V834.72006H467.4Z"/>
+</clipPath>
+<clipPath id="clip_703">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M467.4 820.08H594.601V834.72006H467.4Z"/>
+</clipPath>
+<clipPath id="clip_704">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 756.12H440.76V769.921H77.04Z"/>
+</clipPath>
+<clipPath id="clip_705">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 756.12H440.76V769.921H77.04Z"/>
+</clipPath>
+<clipPath id="clip_706">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 756.12H507.121V769.921H440.76Z"/>
+</clipPath>
+<clipPath id="clip_707">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 756.12H507.121V769.921H440.76Z"/>
+</clipPath>
+<clipPath id="clip_708">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 756.12H507.121V769.921H440.76Z"/>
+</clipPath>
+<clipPath id="clip_709">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 742.32H440.76V756.12H77.04Z"/>
+</clipPath>
+<clipPath id="clip_710">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 742.32H440.76V756.12H77.04Z"/>
+</clipPath>
+<clipPath id="clip_711">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 742.32H440.76V756.12H77.04Z"/>
+</clipPath>
+<clipPath id="clip_712">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 742.32H507.121V756.12H440.76Z"/>
+</clipPath>
+<clipPath id="clip_713">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 742.32H507.121V756.12H440.76Z"/>
+</clipPath>
+<clipPath id="clip_714">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 742.32H507.121V756.12H440.76Z"/>
+</clipPath>
+<clipPath id="clip_715">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 728.52H440.76V742.32H77.04Z"/>
+</clipPath>
+<clipPath id="clip_716">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 728.52H440.76V742.32H77.04Z"/>
+</clipPath>
+<clipPath id="clip_717">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 728.52H507.121V742.32H440.76Z"/>
+</clipPath>
+<clipPath id="clip_718">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 728.52H507.121V742.32H440.76Z"/>
+</clipPath>
+<clipPath id="clip_719">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 728.52H507.121V742.32H440.76Z"/>
+</clipPath>
+<clipPath id="clip_720">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 714.36H440.76V728.521H77.04Z"/>
+</clipPath>
+<clipPath id="clip_721">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 714.36H440.76V728.521H77.04Z"/>
+</clipPath>
+<clipPath id="clip_722">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 714.36H507.121V728.521H440.76Z"/>
+</clipPath>
+<clipPath id="clip_723">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 714.36H507.121V728.521H440.76Z"/>
+</clipPath>
+<clipPath id="clip_724">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 714.36H507.121V728.521H440.76Z"/>
+</clipPath>
+<clipPath id="clip_725">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 700.56H440.76V714.36H77.04Z"/>
+</clipPath>
+<clipPath id="clip_726">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 700.56H440.76V714.36H77.04Z"/>
+</clipPath>
+<clipPath id="clip_727">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 700.56H507.121V714.36H440.76Z"/>
+</clipPath>
+<clipPath id="clip_728">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 700.56H507.121V714.36H440.76Z"/>
+</clipPath>
+<clipPath id="clip_729">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 686.76H440.76V700.56H77.04Z"/>
+</clipPath>
+<clipPath id="clip_730">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 686.76H440.76V700.56H77.04Z"/>
+</clipPath>
+<clipPath id="clip_731">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 686.76H507.121V700.56H440.76Z"/>
+</clipPath>
+<clipPath id="clip_732">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 686.76H507.121V700.56H440.76Z"/>
+</clipPath>
+<clipPath id="clip_733">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 686.76H507.121V700.56H440.76Z"/>
+</clipPath>
+<clipPath id="clip_734">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 672.96H440.76V686.76107H77.04Z"/>
+</clipPath>
+<clipPath id="clip_735">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 672.96H440.76V686.76107H77.04Z"/>
+</clipPath>
+<clipPath id="clip_736">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 672.96H440.76V686.76107H77.04Z"/>
+</clipPath>
+<clipPath id="clip_737">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 672.96H507.121V686.76107H440.76Z"/>
+</clipPath>
+<clipPath id="clip_738">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 672.96H507.121V686.76107H440.76Z"/>
+</clipPath>
+<clipPath id="clip_739">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 672.96H507.121V686.76107H440.76Z"/>
+</clipPath>
+<clipPath id="clip_740">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 659.16H440.76V672.95999H77.04Z"/>
+</clipPath>
+<clipPath id="clip_741">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 659.16H440.76V672.95999H77.04Z"/>
+</clipPath>
+<clipPath id="clip_742">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 659.16H507.121V672.95999H440.76Z"/>
+</clipPath>
+<clipPath id="clip_743">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 659.16H507.121V672.95999H440.76Z"/>
+</clipPath>
+<clipPath id="clip_744">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 659.16H507.121V672.95999H440.76Z"/>
+</clipPath>
+<clipPath id="clip_745">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 645.36H440.76V659.16H77.04Z"/>
+</clipPath>
+<clipPath id="clip_746">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 645.36H440.76V659.16H77.04Z"/>
+</clipPath>
+<clipPath id="clip_747">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 645.36H507.121V659.16H440.76Z"/>
+</clipPath>
+<clipPath id="clip_748">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 645.36H507.121V659.16H440.76Z"/>
+</clipPath>
+<clipPath id="clip_749">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 645.36H507.121V659.16H440.76Z"/>
+</clipPath>
+<clipPath id="clip_750">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 631.56H440.76V645.361H77.04Z"/>
+</clipPath>
+<clipPath id="clip_751">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 631.56H440.76V645.361H77.04Z"/>
+</clipPath>
+<clipPath id="clip_752">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 631.56H507.121V645.361H440.76Z"/>
+</clipPath>
+<clipPath id="clip_753">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 631.56H507.121V645.361H440.76Z"/>
+</clipPath>
+<clipPath id="clip_754">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 631.56H507.121V645.361H440.76Z"/>
+</clipPath>
+<clipPath id="clip_755">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 617.76H440.76V631.56H77.04Z"/>
+</clipPath>
+<clipPath id="clip_756">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 617.76H440.76V631.56H77.04Z"/>
+</clipPath>
+<clipPath id="clip_757">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 617.76H440.76V631.56H77.04Z"/>
+</clipPath>
+<clipPath id="clip_758">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 617.76H507.121V631.56H440.76Z"/>
+</clipPath>
+<clipPath id="clip_759">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 617.76H507.121V631.56H440.76Z"/>
+</clipPath>
+<clipPath id="clip_760">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 617.76H507.121V631.56H440.76Z"/>
+</clipPath>
+<clipPath id="clip_761">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 603.96H440.76V617.76H77.04Z"/>
+</clipPath>
+<clipPath id="clip_762">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 603.96H440.76V617.76H77.04Z"/>
+</clipPath>
+<clipPath id="clip_763">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 603.96H507.121V617.76H440.76Z"/>
+</clipPath>
+<clipPath id="clip_764">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 603.96H507.121V617.76H440.76Z"/>
+</clipPath>
+<clipPath id="clip_765">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 590.16H440.76V603.961H77.04Z"/>
+</clipPath>
+<clipPath id="clip_766">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 590.16H440.76V603.961H77.04Z"/>
+</clipPath>
+<clipPath id="clip_767">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 590.16H507.121V603.961H440.76Z"/>
+</clipPath>
+<clipPath id="clip_768">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 590.16H507.121V603.961H440.76Z"/>
+</clipPath>
+<clipPath id="clip_769">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 590.16H507.121V603.961H440.76Z"/>
+</clipPath>
+<clipPath id="clip_770">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 576.36H440.76V590.16H77.04Z"/>
+</clipPath>
+<clipPath id="clip_771">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 576.36H440.76V590.16H77.04Z"/>
+</clipPath>
+<clipPath id="clip_772">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 576.36H507.121V590.16H440.76Z"/>
+</clipPath>
+<clipPath id="clip_773">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 576.36H507.121V590.16H440.76Z"/>
+</clipPath>
+<clipPath id="clip_774">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 576.36H507.121V590.16H440.76Z"/>
+</clipPath>
+<clipPath id="clip_775">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 562.56H440.76V576.36H77.04Z"/>
+</clipPath>
+<clipPath id="clip_776">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 562.56H440.76V576.36H77.04Z"/>
+</clipPath>
+<clipPath id="clip_777">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 562.56H440.76V576.36H77.04Z"/>
+</clipPath>
+<clipPath id="clip_778">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 562.56H507.121V576.36H440.76Z"/>
+</clipPath>
+<clipPath id="clip_779">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 562.56H507.121V576.36H440.76Z"/>
+</clipPath>
+<clipPath id="clip_780">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 562.56H507.121V576.36H440.76Z"/>
+</clipPath>
+<clipPath id="clip_781">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 548.76H440.76V562.56106H77.04Z"/>
+</clipPath>
+<clipPath id="clip_782">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 548.76H440.76V562.56106H77.04Z"/>
+</clipPath>
+<clipPath id="clip_783">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 548.76H507.121V562.56106H440.76Z"/>
+</clipPath>
+<clipPath id="clip_784">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 548.76H507.121V562.56106H440.76Z"/>
+</clipPath>
+<clipPath id="clip_785">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 548.76H507.121V562.56106H440.76Z"/>
+</clipPath>
+<clipPath id="clip_786">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 534.96H440.76V548.76H77.04Z"/>
+</clipPath>
+<clipPath id="clip_787">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 534.96H440.76V548.76H77.04Z"/>
+</clipPath>
+<clipPath id="clip_788">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 534.96H507.121V548.76H440.76Z"/>
+</clipPath>
+<clipPath id="clip_789">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 534.96H507.121V548.76H440.76Z"/>
+</clipPath>
+<clipPath id="clip_790">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 534.96H507.121V548.76H440.76Z"/>
+</clipPath>
+<clipPath id="clip_791">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 521.16H440.76V534.95999H77.04Z"/>
+</clipPath>
+<clipPath id="clip_792">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 521.16H440.76V534.95999H77.04Z"/>
+</clipPath>
+<clipPath id="clip_793">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 521.16H440.76V534.95999H77.04Z"/>
+</clipPath>
+<clipPath id="clip_794">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 521.16H507.121V534.95999H440.76Z"/>
+</clipPath>
+<clipPath id="clip_795">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 521.16H507.121V534.95999H440.76Z"/>
+</clipPath>
+<clipPath id="clip_796">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 521.16H507.121V534.95999H440.76Z"/>
+</clipPath>
+<clipPath id="clip_797">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 507.36H440.76V521.161H77.04Z"/>
+</clipPath>
+<clipPath id="clip_798">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 507.36H440.76V521.161H77.04Z"/>
+</clipPath>
+<clipPath id="clip_799">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 507.36H507.121V521.161H440.76Z"/>
+</clipPath>
+<clipPath id="clip_800">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 507.36H507.121V521.161H440.76Z"/>
+</clipPath>
+<clipPath id="clip_801">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 507.36H507.121V521.161H440.76Z"/>
+</clipPath>
+<clipPath id="clip_802">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 493.56H440.76V507.36H77.04Z"/>
+</clipPath>
+<clipPath id="clip_803">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 493.56H440.76V507.36H77.04Z"/>
+</clipPath>
+<clipPath id="clip_804">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 493.56H507.121V507.36H440.76Z"/>
+</clipPath>
+<clipPath id="clip_805">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 493.56H507.121V507.36H440.76Z"/>
+</clipPath>
+<clipPath id="clip_806">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 493.56H507.121V507.36H440.76Z"/>
+</clipPath>
+<clipPath id="clip_807">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 479.76H440.76V493.56H77.04Z"/>
+</clipPath>
+<clipPath id="clip_808">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 479.76H440.76V493.56H77.04Z"/>
+</clipPath>
+<clipPath id="clip_809">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 479.76H507.121V493.56H440.76Z"/>
+</clipPath>
+<clipPath id="clip_810">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 479.76H507.121V493.56H440.76Z"/>
+</clipPath>
+<clipPath id="clip_811">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 479.76H507.121V493.56H440.76Z"/>
+</clipPath>
+<clipPath id="clip_812">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 465.96H440.76V479.761H77.04Z"/>
+</clipPath>
+<clipPath id="clip_813">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 465.96H440.76V479.761H77.04Z"/>
+</clipPath>
+<clipPath id="clip_814">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 465.96H507.121V479.761H440.76Z"/>
+</clipPath>
+<clipPath id="clip_815">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 465.96H507.121V479.761H440.76Z"/>
+</clipPath>
+<clipPath id="clip_816">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 465.96H507.121V479.761H440.76Z"/>
+</clipPath>
+<clipPath id="clip_817">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 452.16H440.76V465.96H77.04Z"/>
+</clipPath>
+<clipPath id="clip_818">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 452.16H440.76V465.96H77.04Z"/>
+</clipPath>
+<clipPath id="clip_819">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 452.16H507.121V465.96H440.76Z"/>
+</clipPath>
+<clipPath id="clip_820">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 452.16H507.121V465.96H440.76Z"/>
+</clipPath>
+<clipPath id="clip_821">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 452.16H507.121V465.96H440.76Z"/>
+</clipPath>
+<clipPath id="clip_822">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 438.36H440.76V452.15998H77.04Z"/>
+</clipPath>
+<clipPath id="clip_823">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 438.36H440.76V452.15998H77.04Z"/>
+</clipPath>
+<clipPath id="clip_824">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 438.36H507.121V452.15998H440.76Z"/>
+</clipPath>
+<clipPath id="clip_825">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 438.36H507.121V452.15998H440.76Z"/>
+</clipPath>
+<clipPath id="clip_826">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 438.36H507.121V452.15998H440.76Z"/>
+</clipPath>
+<clipPath id="clip_827">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 424.56H440.76V438.361H77.04Z"/>
+</clipPath>
+<clipPath id="clip_828">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 424.56H440.76V438.361H77.04Z"/>
+</clipPath>
+<clipPath id="clip_829">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 424.56H507.121V438.361H440.76Z"/>
+</clipPath>
+<clipPath id="clip_830">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 424.56H507.121V438.361H440.76Z"/>
+</clipPath>
+<clipPath id="clip_831">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 410.76H440.76V424.56H77.04Z"/>
+</clipPath>
+<clipPath id="clip_832">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 410.76H440.76V424.56H77.04Z"/>
+</clipPath>
+<clipPath id="clip_833">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 410.76H507.121V424.56H440.76Z"/>
+</clipPath>
+<clipPath id="clip_834">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 410.76H507.121V424.56H440.76Z"/>
+</clipPath>
+<clipPath id="clip_835">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 396.96H440.76V410.75999H77.04Z"/>
+</clipPath>
+<clipPath id="clip_836">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 396.96H440.76V410.75999H77.04Z"/>
+</clipPath>
+<clipPath id="clip_837">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 396.96H507.121V410.75999H440.76Z"/>
+</clipPath>
+<clipPath id="clip_838">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 396.96H507.121V410.75999H440.76Z"/>
+</clipPath>
+<clipPath id="clip_839">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 396.96H507.121V410.75999H440.76Z"/>
+</clipPath>
+<clipPath id="clip_840">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 383.16H440.76V396.961H77.04Z"/>
+</clipPath>
+<clipPath id="clip_841">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 383.16H440.76V396.961H77.04Z"/>
+</clipPath>
+<clipPath id="clip_842">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 383.16H507.121V396.961H440.76Z"/>
+</clipPath>
+<clipPath id="clip_843">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 383.16H507.121V396.961H440.76Z"/>
+</clipPath>
+<clipPath id="clip_844">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 383.16H507.121V396.961H440.76Z"/>
+</clipPath>
+<clipPath id="clip_845">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 369.36H440.76V383.15998H77.04Z"/>
+</clipPath>
+<clipPath id="clip_846">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 369.36H440.76V383.15998H77.04Z"/>
+</clipPath>
+<clipPath id="clip_847">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 369.36H507.121V383.15998H440.76Z"/>
+</clipPath>
+<clipPath id="clip_848">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 369.36H507.121V383.15998H440.76Z"/>
+</clipPath>
+<clipPath id="clip_849">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 369.36H507.121V383.15998H440.76Z"/>
+</clipPath>
+<clipPath id="clip_850">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 355.56H440.76V369.36H77.04Z"/>
+</clipPath>
+<clipPath id="clip_851">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 355.56H440.76V369.36H77.04Z"/>
+</clipPath>
+<clipPath id="clip_852">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 355.56H507.121V369.36H440.76Z"/>
+</clipPath>
+<clipPath id="clip_853">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 355.56H507.121V369.36H440.76Z"/>
+</clipPath>
+<clipPath id="clip_854">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 355.56H507.121V369.36H440.76Z"/>
+</clipPath>
+<clipPath id="clip_855">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 327.96H440.76V355.56H77.04Z"/>
+</clipPath>
+<clipPath id="clip_856">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 327.96H440.76V355.56H77.04Z"/>
+</clipPath>
+<clipPath id="clip_857">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 327.96H440.76V355.56H77.04Z"/>
+</clipPath>
+<clipPath id="clip_858">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 327.96H507.121V355.56H440.76Z"/>
+</clipPath>
+<clipPath id="clip_859">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 327.96H507.121V355.56H440.76Z"/>
+</clipPath>
+<clipPath id="clip_860">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 327.96H507.121V355.56H440.76Z"/>
+</clipPath>
+<clipPath id="clip_861">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 314.16H440.76V327.96H77.04Z"/>
+</clipPath>
+<clipPath id="clip_862">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 314.16H440.76V327.96H77.04Z"/>
+</clipPath>
+<clipPath id="clip_863">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 314.16H440.76V327.96H77.04Z"/>
+</clipPath>
+<clipPath id="clip_864">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 314.16H440.76V327.96H77.04Z"/>
+</clipPath>
+<clipPath id="clip_865">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 314.16H507.121V327.96H440.76Z"/>
+</clipPath>
+<clipPath id="clip_866">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 314.16H507.121V327.96H440.76Z"/>
+</clipPath>
+<clipPath id="clip_867">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 314.16H507.121V327.96H440.76Z"/>
+</clipPath>
+<clipPath id="clip_868">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 300.36H440.76V314.16099H77.04Z"/>
+</clipPath>
+<clipPath id="clip_869">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 300.36H440.76V314.16099H77.04Z"/>
+</clipPath>
+<clipPath id="clip_870">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 300.36H440.76V314.16099H77.04Z"/>
+</clipPath>
+<clipPath id="clip_871">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 300.36H440.76V314.16099H77.04Z"/>
+</clipPath>
+<clipPath id="clip_872">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 300.36H507.121V314.16099H440.76Z"/>
+</clipPath>
+<clipPath id="clip_873">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 300.36H507.121V314.16099H440.76Z"/>
+</clipPath>
+<clipPath id="clip_874">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 300.36H507.121V314.16099H440.76Z"/>
+</clipPath>
+<clipPath id="clip_875">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 286.56H440.76V300.36H77.04Z"/>
+</clipPath>
+<clipPath id="clip_876">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 286.56H440.76V300.36H77.04Z"/>
+</clipPath>
+<clipPath id="clip_877">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 286.56H440.76V300.36H77.04Z"/>
+</clipPath>
+<clipPath id="clip_878">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 286.56H440.76V300.36H77.04Z"/>
+</clipPath>
+<clipPath id="clip_879">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 286.56H507.121V300.36H440.76Z"/>
+</clipPath>
+<clipPath id="clip_880">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 286.56H507.121V300.36H440.76Z"/>
+</clipPath>
+<clipPath id="clip_881">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 286.56H507.121V300.36H440.76Z"/>
+</clipPath>
+<clipPath id="clip_882">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 272.76H440.76V286.56H77.04Z"/>
+</clipPath>
+<clipPath id="clip_883">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 272.76H440.76V286.56H77.04Z"/>
+</clipPath>
+<clipPath id="clip_884">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 272.76H440.76V286.56H77.04Z"/>
+</clipPath>
+<clipPath id="clip_885">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 272.76H440.76V286.56H77.04Z"/>
+</clipPath>
+<clipPath id="clip_886">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 272.76H507.121V286.56H440.76Z"/>
+</clipPath>
+<clipPath id="clip_887">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 272.76H507.121V286.56H440.76Z"/>
+</clipPath>
+<clipPath id="clip_888">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 272.76H507.121V286.56H440.76Z"/>
+</clipPath>
+<clipPath id="clip_889">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 258.96H440.76V272.761H77.04Z"/>
+</clipPath>
+<clipPath id="clip_890">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 258.96H440.76V272.761H77.04Z"/>
+</clipPath>
+<clipPath id="clip_891">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 258.96H440.76V272.761H77.04Z"/>
+</clipPath>
+<clipPath id="clip_892">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 258.96H440.76V272.761H77.04Z"/>
+</clipPath>
+<clipPath id="clip_893">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 258.96H507.121V272.761H440.76Z"/>
+</clipPath>
+<clipPath id="clip_894">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 258.96H507.121V272.761H440.76Z"/>
+</clipPath>
+<clipPath id="clip_895">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 258.96H507.121V272.761H440.76Z"/>
+</clipPath>
+<clipPath id="clip_896">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 245.16H440.76V258.96H77.04Z"/>
+</clipPath>
+<clipPath id="clip_897">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 245.16H440.76V258.96H77.04Z"/>
+</clipPath>
+<clipPath id="clip_898">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 245.16H440.76V258.96H77.04Z"/>
+</clipPath>
+<clipPath id="clip_899">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 245.16H440.76V258.96H77.04Z"/>
+</clipPath>
+<clipPath id="clip_900">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 245.16H507.121V258.96H440.76Z"/>
+</clipPath>
+<clipPath id="clip_901">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 245.16H507.121V258.96H440.76Z"/>
+</clipPath>
+<clipPath id="clip_902">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 245.16H507.121V258.96H440.76Z"/>
+</clipPath>
+<clipPath id="clip_903">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 231.36H440.76V245.16H77.04Z"/>
+</clipPath>
+<clipPath id="clip_904">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 231.36H440.76V245.16H77.04Z"/>
+</clipPath>
+<clipPath id="clip_905">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 231.36H440.76V245.16H77.04Z"/>
+</clipPath>
+<clipPath id="clip_906">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 231.36H440.76V245.16H77.04Z"/>
+</clipPath>
+<clipPath id="clip_907">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 231.36H440.76V245.16H77.04Z"/>
+</clipPath>
+<clipPath id="clip_908">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 231.36H507.121V245.16H440.76Z"/>
+</clipPath>
+<clipPath id="clip_909">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 231.36H507.121V245.16H440.76Z"/>
+</clipPath>
+<clipPath id="clip_910">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 231.36H507.121V245.16H440.76Z"/>
+</clipPath>
+<clipPath id="clip_911">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 217.56H440.76V231.361H77.04Z"/>
+</clipPath>
+<clipPath id="clip_912">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 217.56H440.76V231.361H77.04Z"/>
+</clipPath>
+<clipPath id="clip_913">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 217.56H440.76V231.361H77.04Z"/>
+</clipPath>
+<clipPath id="clip_914">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 217.56H440.76V231.361H77.04Z"/>
+</clipPath>
+<clipPath id="clip_915">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 217.56H507.121V231.361H440.76Z"/>
+</clipPath>
+<clipPath id="clip_916">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 217.56H507.121V231.361H440.76Z"/>
+</clipPath>
+<clipPath id="clip_917">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 203.76H440.76V217.56H77.04Z"/>
+</clipPath>
+<clipPath id="clip_918">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 203.76H440.76V217.56H77.04Z"/>
+</clipPath>
+<clipPath id="clip_919">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 203.76H440.76V217.56H77.04Z"/>
+</clipPath>
+<clipPath id="clip_920">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 203.76H440.76V217.56H77.04Z"/>
+</clipPath>
+<clipPath id="clip_921">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 203.76H507.121V217.56H440.76Z"/>
+</clipPath>
+<clipPath id="clip_922">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 203.76H507.121V217.56H440.76Z"/>
+</clipPath>
+<clipPath id="clip_923">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 189.96H440.76V203.76001H77.04Z"/>
+</clipPath>
+<clipPath id="clip_924">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 189.96H507.121V203.76001H440.76Z"/>
+</clipPath>
+<clipPath id="clip_925">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 176.16H440.76V189.961H77.04Z"/>
+</clipPath>
+<clipPath id="clip_926">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 176.16H507.121V189.961H440.76Z"/>
+</clipPath>
+<clipPath id="clip_927">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 152.88H440.76V176.159H77.04Z"/>
+</clipPath>
+<clipPath id="clip_928">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 152.88H440.76V176.159H77.04Z"/>
+</clipPath>
+<clipPath id="clip_929">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 152.88H507.121V176.159H440.76Z"/>
+</clipPath>
+<clipPath id="clip_930">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 152.88H507.121V176.159H440.76Z"/>
+</clipPath>
+<clipPath id="clip_931">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 139.08H440.76V152.881H77.04Z"/>
+</clipPath>
+<clipPath id="clip_932">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 139.08H507.121V152.881H440.76Z"/>
+</clipPath>
+<clipPath id="clip_933">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 125.28H440.76V139.08H77.04Z"/>
+</clipPath>
+<clipPath id="clip_934">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 125.28H440.76V139.08H77.04Z"/>
+</clipPath>
+<clipPath id="clip_935">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 125.28H507.121V139.08H440.76Z"/>
+</clipPath>
+<clipPath id="clip_936">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 125.28H507.121V139.08H440.76Z"/>
+</clipPath>
+<clipPath id="clip_937">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 125.28H507.121V139.08H440.76Z"/>
+</clipPath>
+<clipPath id="clip_938">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 125.28H507.121V139.08H440.76Z"/>
+</clipPath>
+<clipPath id="clip_939">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 111.48H440.76V125.28001H77.04Z"/>
+</clipPath>
+<clipPath id="clip_940">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 111.48H440.76V125.28001H77.04Z"/>
+</clipPath>
+<clipPath id="clip_941">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 111.48H440.76V125.28001H77.04Z"/>
+</clipPath>
+<clipPath id="clip_942">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 111.48H507.121V125.28001H440.76Z"/>
+</clipPath>
+<clipPath id="clip_943">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 111.48H507.121V125.28001H440.76Z"/>
+</clipPath>
+<clipPath id="clip_944">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 111.48H507.121V125.28001H440.76Z"/>
+</clipPath>
+<clipPath id="clip_945">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 111.48H507.121V125.28001H440.76Z"/>
+</clipPath>
+<clipPath id="clip_946">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 111.48H507.121V125.28001H440.76Z"/>
+</clipPath>
+<clipPath id="clip_947">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 97.68H440.76V111.481H77.04Z"/>
+</clipPath>
+<clipPath id="clip_948">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 97.68H440.76V111.481H77.04Z"/>
+</clipPath>
+<clipPath id="clip_949">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 97.68H507.121V111.481H440.76Z"/>
+</clipPath>
+<clipPath id="clip_950">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 97.68H507.121V111.481H440.76Z"/>
+</clipPath>
+<clipPath id="clip_951">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 97.68H507.121V111.481H440.76Z"/>
+</clipPath>
+<clipPath id="clip_952">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 97.68H507.121V111.481H440.76Z"/>
+</clipPath>
+<clipPath id="clip_953">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 97.68H507.121V111.481H440.76Z"/>
+</clipPath>
+<clipPath id="clip_954">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M77.04 83.88H440.76V97.68H77.04Z"/>
+</clipPath>
+<clipPath id="clip_955">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M440.76 83.88H507.121V97.68H440.76Z"/>
+</clipPath>
+<clipPath id="clip_956">
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M72 83.88H512.16006V769.92H72Z"/>
+</clipPath>
+</defs>
+<g>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Calibri"><tspan y="-795.48" x="523.32"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Calibri"><tspan y="-52.443788" x="510.72337 515.7631 518.2802 520.7973 523.3144">viii </tspan><tspan y="-39.008108" x="72.00482"> </tspan></text>
+<g clip-path="url(#clip_698)">
+<g mask="url(#mask_699)">
+<g transform="matrix(.26399998,0,0,.26399998,-2.5,-2.4999696)">
+<image id="image_701" width="225" height="225" xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAIAAACx0UUtAAAACXBIWXMAAA7EAAAO
+xAGVKw4bAAA3LUlEQVR4nO19T2wc15H3XCgdszcDOS0MKsAHCCtqJUDyIASSk2XD
+B19sLLTRIQEMa20YuugmZxEgPniZi30xDNiXJFgHNpyLkeiiHFYATX6tJpl1EP0x
+pHUSrgF/tj/FkaGFPJ/H6u/36vequrqnZzgkh5ym+BoFYjjT/fr9+b16VfWq6nWK
+dKWr3Vdn2hVIV7o2uBJG09X2K2E0XW2/EkbT1fYrYTRdbb8SRtPV9ithNF1tv4Zi
+9P79QFu7+krpSpe/+lVsAGDjgKQZo/0iArQ3seqlK12VyyN19NWMUTwGdP7P+n//
+7Te/u/3bS5ugi020qRI2LHkipSWaLI054u6nAK2Ll+5czjdkpaMw+n/+/b3/6Pzd
+cmc2UaKJ0/ud7wBd1/7pha3z0b5gdLlzODtwMlGiiVM+cyLrzN04c34SGEVZ025P
+ogePEkYTtZ0SRhO1nSaK0Wk3JtEDSQmjidpOCaOJ2k4Jo4naTgmjidpOwOiVzj8m
+jCZqLxlGN0BowmiiadFE+WiyjybaAUoYTdR2ShhN1HZKGE3Udkq2p0R7gRJGE7WZ
+Eh9N1HZKGE3Udkr+o4naTgmjidpOCaOJ2k4Jo4naTgmjidpOCaOJ2k4Jo4naTgmj
+idpOCaOJ2k7J7ylR2ylhNFHbaaLxTAmjiXaATB5NGE3UUkoYTdR2ShhN1HZKGE3U
+dkoYTdR2ShhN1HbaLkaLImE00c7SdvdCE0YT7TQljCZqOyWMJmo7Jb+nRG2nhNFE
+baeE0URtpySPJmo7TQCjRcJoop2khNFEbae01idqOyWMJmo7JYwmajsljCZqOyWM
+Jmo7JYwmajsl/9FEbaeE0URtp4TRRG2nFM+UqO2U/J4StZ0SRhO1ndIZYonaTgmj
+idpOCaOJ2k4Jo4naTgmjidpOCaOJ2k4Jo4naTgmjidpOKeYuUdsp+Y8mmjDlk4ZB
+4qOJJkNA0sTRaSVPjo9uox5LB09Yheyz/ya2f+bEWufEpCZD7UXtpZkTkezfqVdp
+gHKpoQxTF5Rbhbdd2+nrTABKhKBvkmtYbHaJ1K7SNoZcHje47wWwulbPTGyWToDK
+moQxApgCEjpzgQSy22eu08eoMUh8WOkca2pYN9M5ihuWOkevdP5xyy0n0FECygHF
+GT/1kR5dZ6lq2epWVphjd/3U2T//66vrP3v92nMv/uc/PPWAYDRT3Kw89OjSI0//
+4ZF//uP3f1AfCeV26ALccP2xZ3Dz1oYq8M4D3VvnFz5/7e1r//QCB77NMEXdPnz2
+xVDb514EDljVfKBzpklY4jpHMS5fvH8FeOiJ+AcCWPPOkeljtNi2PMrlG4+vv/zG
+/a/ugf5n/b8/OP6ktc1GBbjs37kbqCg+euEltL9ayFjvCi/62esoIXTlnbvo2cCb
+x1nrdxIK+eDyLf/G84a/usdRx2d8k1E4kZFbkYU1n/FS0HgNmYTAIP0WFqLFb33v
+y6s3esKzDKMYoxVDxTbeNX3bk8co2wboAKOyEMcb0BdAUsCo3IDr1rkFw2hlBdyo
+DnjR7d9e6usKABa12Dm8McSd1jIZprtxIV2wfNTt05ffsLHHZ+MFa515LqxoDlbV
+0F1eudwVwutYSYxdoZX8229+B3SiYpj/qFXD9NubGD35vzv/C+wtFjgco4ViFL3g
++MeokuskrSUzxtT/4O9PoZept40ejGxD88owvXvYI6NUii5/4hp6788fY+yxvKwc
+Px34qMjTmF3sLvzE1SCqgLUZO0gjqjQOuWfZdWCWX65d7Ull0KXCcWaBB1Z1P2K0
+cBj16LG3c3TRQRw2r5PlYroCAwY0Ma6hiztzYEj2VDNiqiXHddbVH+8C8V21QuIb
+1ZJAlJC7WH3K8RZeGO/RduFLNAQyeqhnZy5+3zmCHiB/RXeRj3rpyDd8sMPzDaFT
+azL1y4H+YbswdpBGiISPX/kl/sXbCd9tmV9ahtHuIEZ9N+EGwygranwUP0kPzi3x
+X7F9YDgxbCB58LAZm0i4H8vT+53v4BFTlvFNKKFzhAKfDmFYcDP93qZNVPI6hwM9
+9CjgDoJMRuZRTptwM6o3txjuDBMG92N6QDXEX1Yef9F2/IraohD8ReV9nYO01zm8
+qHInv0Hlb5250NflFU/hm/KGzhE+QnxzUnEysO3E3DBLM+/HDahYKEEaiFewgSA2
+P8oVYmayccESDybK92Ybrjz7AaPkPXg71hoQ9HQ8iH//3//97Mtv7uI2rJKY2Zmu
+SmHUO3NQ6rEk4f47l3PwJ9QcKjNLYCGrYpMym9dfXv/Vl9k1EO5nTVBaQAnKWbuK
+d1H8wAeIhhjOKCiHYZ7Disxib77yJtqIorBkcyxF4wn2GghzuAGsCHXmmo5yAGKu
+6dcfe8bqhnFCIRBDUX80jdI5OsRuwOtQgVBb+ZfjYiY2fA511l8/fPx5ct+KnCOo
+Ao6vP/xUaLhUjC9ixVAHNJAQx53oE9xj8j1qxfKjUrvPMbrEha8z98X7V9iJ66++
+RQRQNuppDdHXq1xGD3SBLaCWv6L3gVHytr6WvP7ue2RjJmCgTJaP8cDjZGN//fmv
+aRzggssR4iABQ4QF5wPfBU2C7yXnA0YXA78/gdf1tap9ozt38d7AhDpHMDbUlHui
+4YFLBXnavbrnWopi0S0EDQ0XgW0L+0db0MloQk9fsXjoicZFHxW7+d0fsSdtiAut
+AzotTHtVBlBOUe2EntYEr5uI+bkttqctr/UYRWI09NFX93qCEgACg8F/+RO4EeVX
+wIsvoiQHjIblvnPEBg9jQw5KdgJY9PSl6KYlMfewBPI8cEEUTk7MEcIHjg35KB8P
+bO/OXY4xPgC7QBueCuY2MMJv7qIPcTO+R+VlnoS1EiWAr5OT4bbIRx97htzLMIoe
+wDegGz88j2JRiCHmTz9eIPugVINX8/tP3rm4UhsyAWuQ42Vaxq776h7uRG+jyeTc
+bAJewZmM2lr/Uw2NNTlznltN2wToBDA6oX2mLWI0k/UL3WR9hN7BbSJIza07qw2m
+/ooIUobRQvloEEAFTIUyDMBiKQA6MF00LSLv6g1qLeBMRD/+ouNwz7JIt6gzOW4Y
+wjMXKMwBNH3lMeSmWGGxHKMQ3FAWvnYV2FpRudN2KFA3YpQNR2m0iuNmVpgzE8Ii
+xcTQS51jYJDkgigcq7Pws5MUG6wyKLY+ZIJRCiSFssZb5xbwjYihs6g2G0hGgP6h
+pogPhbLPT19+A11hOyMT2WTewxglezB7J9cvqCOUASgMoSsJjiBKRkzP1jBKmQwK
+ga3pWMeXxWgKUOJLthEoXxYlCasYxwllElgrokn8R+fvDHPgPRxaZiliCeA3UR+S
+FQC/UmDoiyxLCSFuzGjbBzG6JK0ggy+U1YleP8deYsnEGUsGZClA2+vI6Ss6k+CJ
+gCMTLaSBSxT6xTZn2x/sUhE8Yi/Z9F4XC27u7BL7GqPGR4nRaEEUDZqdDgDdvrIW
+7XZrV/l9I0YzkQEALHY0kE0+Z+ss7TuC0WOUClANFI4hgTIE+EIUxmeTjPGBTJEY
+ZbE2qFTIVgRnpvfgFZ+8cwkMmFvzwzF6lFseNYzKI13tq8NgmWT2uESuCIzQ1CxU
+lSt1BUPiDoEOsUUJs3FFAUexisUSo5gGKFPMTPOlNP/yG5Sp8sltKEwUo1uzD7t9
+pkLZIbcobOMEvRBY3aEn7I2Rj8qDXOujKCnzniWjBwkaYpQLkJ8MHqPkeTY8shTO
+fv7a23wccKSFCGRqbM/1g6k7/AzBYEWMWUCVIQkDbJYpNQZ10XWm9/A2vAvN5ww0
+ebTwfPTASS+cKB89Gg0RampFOTZhLne+jXsKlQ1QfjS6VQYrKHl4nTECdAhNHDSJ
+4BHwDjBmdhFYAzVIrvUVjE7UBWIHMLpZkqeW3RrK4YzsULuPk7hQcNACwgeJ0UIw
+qk4MXWrfGJ5iPIxylbRlDkwiEwXZtFQuFLgH+DNjEzhTjb5eD1+CJWdifPUYLZEh
+jeLain9pwyLDNr0NQguq1LjWczXHLC0a+aj2J4q1/sSX7F7fFQPjFSzNNCMYRqWT
+I/TxKzDKLbpS0tW1npfx0QlSWzCKvvAzmMuTm45BGEAv+/FeVf43EYxyB88sSgBi
+0DBkPFAs3cxknObMAhCAeKALqaCR8DrjzYXDaDnrVIZBlXA/MGdSRKEycbM8Kq32
+fFRLjltZVJ5QJiXsQsQMFl7oCm497wldYXpVz2amLo/xV8Uot5T2D0a7wjW7VFAK
+qjjypTEbMjAzcOhORnf7GDXcQHzEYFOMA4809ZatI+PB6JqZk3vT3JWmMJfrNqwJ
+2cRoBUkzbpdSzZNAHjeK0HBOEqzU0sbDG6/19wu0YlEkH78zjK5AE1ga+iFqhGIx
+jSLHAB/lWNBG1o9K4WFz6l1WoxubgwrQ6tx2jBaTirkTFQecqae4R/9C1w5rTWcO
+H6gy8yd0RNjqOBg7DotOYUukblvTQOMxSuHB257MPhpHSBiJWfsoeNHARLkCb8So
+YBUulNMEQ+ZDj8ZNUfqfC2eNK6lmHzaMWt0ykRrBnoMXYucIFSz2gAmR/L6GUUrh
+5K8mxUJvQ7uop5ssEWb4I0/HZ0XRKYT3m6rePBCdObDwnmOlqMOq7IuCiZrtSQTu
+Y9qWbqGyuPfMeqAwyjmNfseYARnW9bTGA4JmUu4Lg+HMZu3Rd8Ro0YRRsqW+YpTM
+tZGPsg4rKsbZlklgllzldZM62PDffc9gCgEU/4K5AihAAF6E+kS+6zJke4xGJtqZ
+47YtngIUbp1bIDhM9aafAP1H+Tpn7onetNFf885ddAvItirYA6iqmRqiwejx5814
+2ajWcIOeCzqnKKqHPkEDuevL12GGyD7ZvNlHve2pdRgtJiGPsioYkltnLpgUZTpE
+oVt/9KbjusanvH10GB8lRqn5DmI0asSCQowfeHbcEFKeTdZFZFD2wG14qen1ffeB
+qKUvFdiPedDhJ7zLxGt+oE5mDTTLAEUdGxszGqC06DgifYVut57hBzDaRQ+Rztyf
+frxgG63SP9z76Q7jo0T29VNnyRe87aKnBldMJ3W6pfdCZa1vHUYnII8eKJ0duf2I
+eRy8GaA+g0+oZz6GLfhhiORe+rmJEIkpTicJMF2zybGo4G4i7iP4EOVaTAPnUwLO
+TbnWKg8Qf/7a29FLI7uG5XJVlarM+VMvimYNpHKTkzuc+IwyMQfUAnoMfMscPkzx
+Mvr9uZ/ifjwV5Iqv7gVXmLWr4fGZE3xpUFNOnbUSMIHNI5EMjE4qgcPJ28HenDgY
+GoWJYQu9t06MsA3ZKISOdaOA8vE6rAbifTdv8nRwwtcamivJA4dRJU5ueoXlEhxC
+F7sQ6tQ5ulx3mC95W6YRef6GuB0n4pdtlhCp9F0KLmoHT2QDcaGM7KNfEoW8AQ0j
++tTRDxDVu/5wqCTt57R7W034oujQ6UzI5FgoAWNszRTfwtnc3qhKGHVEbWD0yaKz
+nzkicuX1D6JwCrjUAlfGiThwXSfqf3fx0BOsG79xpok4VfBeVG9Vth4qdvsJIbVd
+GK1F6Hqv4bzZLTf6qxsCBjFaFjtTstjyZqfE+AdZYHTnq/5q2wpWT5kJR90jJ0tT
+5ZCa806L2+azcft7sBtrneBKUGvDMZPRbbrS5Fw47Yemok2MhRZl+Bt0W87dtid5
+wZjTYAoYXZwERqMhZnCrd8gOVomJJiXA1mXrOPtrwWL+jY3Qb26UalG+VmXASa3m
+HqD+35nKiOrwdweb7xNk1HrD2sK/3JAL/PX4aQyKqeeiMh6u1GQ0ObhnVaaeD45F
+LHZAxn1A+aizGvrP1VXSI0m/bIhJsC4r+64Cx27mQ03qPdutBjl1mytZrecgCxlE
+1QCVzHjYCOVVxNj3vvL2E01O1HjM79icTrYFlEEfEb8uaadVu/GBxGiibVHcvuKG
+LfcC4u7/9Ou2RUoYfdCII0rDyPrLb4SYEzVXTb1u22lRKzE6KMlNu7OaK7m16o0v
+F26qZJVxF7/1PaBzJQYzbbu2U6WWYbQqF+aDMG1L53ZNE6/YTTdqnUmW0cA5oHlU
+LBgDlgq+l8+WudwGXhHVptIS1y31v6HCfXupXRjNXRfn1THbCaPGlispKJkHgV3R
+XXWcxZTmoRI9TQap3EXfK0ArGXKITntdw3bRQMnsN6lqrHAsth39OU6HtwijcU9c
+tow/OP4k49Yllch8mR9h2l0WI5JlpwrEXBJj9jU3h0i62e3ukdbR8qp/FYjKEfXL
+mJtyI1/3cBuD92OFr94ovUKn3ZNjUmswymc7c+hNbsFxfw8U4tavrOFLzZuwK12j
+nCy63rnvF9Ud2/zixmZLwYk4ZGgS/48v3r9y/dTZiit3Z+6jF14y9JvzWxYTlszh
+WfyKZ+9czo2Fj3xvACIKWTl+utDNd03ntm8wymv78fVWDwtorLmVoH5Ljzy99RW/
+0X7ZqEO46LOwyXnq7PXHnvF7PLZ/03deKeMFQHbNPZ7tYtSlbRngV4DPepUBQ7bo
+4y38lR603C5u7o2qLZMOZYV6T9N5akvDVPmwlzC6TT5KjKIfb373R/T+6qtjHtkJ
+HZ+Dj5zmiqmjaiKkBZq8gUYxGZhlhRiB0XHqQ/dTwMV86v76818To1ncSJxHD1iv
+ApGljtU5imXEfsWDwSd60K7e9HksjJYPto6/Tp+PcpcouIFevGRxZ1iPJNZilkP4
+4ePPo2f5eWhQ7Jak1SZWFJMqEqAExIq6C43C6MYVYGKIo4za66uzPX/1KzIlKCCS
+GXUykSlDTKZmdsCA+Q73OlaM4XQ12QxGN85gauXvGkOdKB/dWiVUk/BpC8AkqPz6
+1OC+N+0nZskKHj2dI/bBRitztwHi6ql0wr8ach5/WnQBIT7S9+Yv3rnc+TYdmgjf
+WmQVc9UyD/yiVMDiK+p9LRBn1BRd/SFOUICxDKwMwqaowwnAl5rzNbGbx8of1R44
+xmrQNcnDaDRGI7il92Ioi6Q0y51PWZxdB08saUuZOOMPnUPL+rr2YnT78fWZ6Kdc
+5jgw4sc+ayaeysxWgwvDyjBCYLH0fg+ywdUbWJdvnbmwKq5ihhJ0+p9+vIDbQMCB
+D/pBCfgG9QfhHqabg34WQoo1FQ+KBarw7M1X3iQmanwUiGH6LmaSQW8yl1OT0t2l
+47NxRPX4DOn1sJKQfTJmpi/6DeGyJE77hYaRcA6jMhCQ8OqQWkeylKEOIUnO8dMW
+18WI5GaMKjozSb6OQjA3UA7Kh6Ac3RcPlrMd6EQ5qAbYP3sbI/X7cz8t3RcfYIwy
+tZilCWEIUVjZQ8bGo9abBtBc0xJZuJJ5wvd0FLlKcpyAeFteJVCudBcK8fKSJJvy
+Hzno1+ufmdpu+k3BnB/CJj1GASMf38KbP3/t7UVNbOb7mpVnSMx9Tc1sUerk3KiP
+6VUUM4SlzVs+qfWfvc4VwzJfF9W3o1aYTgz5ysRYNgyjy5Itwjb3fWNDTI74jGaa
+cw8ttXA83+cxcnrHWGkrMJoxR670OAtELzM1kuYT9V6YZQJ261kysBClfr909jEr
+I1ZqHzSiGzyRxxh8mRYPNWG0e+HCgOiLjrdYOh371eJIiVQLhGIW88FFgPYsVr6v
+iwaqcf3UWYbYgxEykwDbxQkJiYIxRrjwK9OIMliKQQqYFXiQMjRrhQqQR1JR8xiN
+4nXnCFM4Wc9gCEIoqap06DTrJUYtW2/jXag5JjOzXTz4a73ZehgDbhM6wELMhMIM
+GKjUpfeuOUcy5CgLWkVwaMcybcCSEPVZ8tFmjBIupsFIUgO8Jex0P/QouVrBFHMa
+ERD80h1GybTouoFfGe58XzNMLers8jDNxYEfM7DnULjoUmCAXYXsNASEpBWKPExj
+klRoPob24ntmb1wRgZu2+vuano1OzbThe4xSxkXbLVRa4BjiZCBiMtHDfT0vgPIu
+mmaBkIG/iswdbHOPPbM6nlljD2PUVkD8RXdDQSmDEpWnhlX4+OmY1wUs5NATNtcl
+b9ZRKliUn9DdPc2gxAV9KEZFnygxejHGc1LoNIxK62Zz25kUW3qhE4mpEBhbkkkY
+nYGpdKM+4MwOsm4SkVSAACCUQBm0J0snbjBGKyr8LCPlOZGoupk0yRBn6nxAGFb5
+vkttxwp4jF577kWL3GdXow5gqMua9xnLjgXmM8ZVgqovOWGpawmKdxqgbcGo20o5
+yigzDJiltYlJxa7ekJCdGOzWdz2+KGkNLcbo2k8WrGIhlncgQFTDKioYLQSji6ZM
+dOY8Rr3B3Mdg8BUrZgZSzaaQqcUTfOo2XVGAmNzLhG/gjGIx4IJRBz+zgGyJtJy1
+SvLQIymwSzkezAyKC+Y2s65aoj+q/wwjqWGUUVOYXRZty21naGDh+Ifjpz9VCwPF
+92V3vEkhTBeKKaOvTAB7kDHqYUrQLEvSAXQrWIL3J9eEibNkFX1N4qAKbNS9IMUW
+uhBjPGhnrfHR3IuGa1cLn8BoCEaNF3qMxqh53Vpc1iwmtkwPYjTnaX0HT5iuhtJC
+ImlJiIx6hvnQOULpvJBaZZpvka+Le2ASzgroMH8lL6/qEaM8T2IQo2EaXIy5MxjU
+ajvPdghWTwvBG9EWJiHsqYRD+dUHiD7IGB30QOMqFqx9x09DMI/69Z27mchMlkeT
+KRczHwUBviKW8PuaxVgsf5UEevEED+XcXh61nDlNGO2qlaBue4oeegJfYrSvfLTe
+19rYkHdSOSXKZ64rytZymETMu8RJZSkmmZCCGMVLMWkLQ4zoMXjccr0MwyjlUUgF
+Nm8pVlne+ziyGq8cHQPEOABYm0muHzOtXqIA9kDzUc9mBgI7mezY3oVOxxAaH2WG
+PX/gXUhBf+ZCz/GM1SBcVjCaxyD9ko/2NsIoda9hGI2TZGyM0tZoliMs0FT1guRw
+6qzZcag2oRpMSF2U/dzlctFToDDvEMqEKMkzcUbwUWKUepuJmPgSDw7+DflQNeab
+nBtYQTXMUFj4JGcPLEYPnPTyaDmQmmvEbNfMp0Wbi1fqbec6k5QQJu/jBqZ4INNi
+hzL/bemjeaDrE2qWIfyC0UKRMZqPbgGjTFXJ9R0vwjJaCKpsfwhvjHzuzl1q35ZL
+J5NMl5akBHDBgsvYYkszXYzEKL7xOcWpXVHr4m4Zz+uhFpW7jT2ebhXUfz3ZjCFT
+YQ7vjbV+q/v1XHwxZcFFCAI50Ch0EDrXjgoBw9M9unkaI/su5zIFWfSdYY6mO+r1
+UCkKXdTAHpjEftmdvlB4eVQkS8qLZjpgdjTzzSsG1vq8EaPVZcGazGwrVN5tnQUo
+hWGHe1ATZujlUm5TVGLw5y1bIBGWM1+DHJXEzarRfNRnOzNOTKMez16LZgrdxOfk
+xDCZ7k/e0XfJ/PcIH90SRm27Mu6yrF2FuAlVADiAaGWG8Z4kJaXFkdaf+3oQAg8u
+Wjz0BP7aqBeyzRjRI8lNe2bPunMXw4/SLEkdy8HoBpYsXsb4YNyL6hreGHcmdZ/p
+vsuJTOQtu8yPgxi19YGsFEIIcFY4LQcThgYEKn+YtPy+KFNWxSzVtrnPmkP44Ulf
+hhtiNO4AORm9cPtMBLqpQZghaGDwRTx1Fq9GQwDcGB0l0xL9gxuY6w+FmM8N5j+k
+2z2yF7pVjKJ5IfGnGkR59dwHGuQtKw7t0rapbdZQ2+Pp6YFrpvKbvfq+O0uJ2jek
+fr4Lg7Soh7jR0bNXPQMpeN2LFwVPXTI+ahoDMWqy8mCCpxKpstyjklZ+IcKomRt5
+PIht7fR1S8JWXrrq3bdzjkUZZ4v6Zh6WZNB+n6nvMMr9ZD+r+67bWSZdXsKJoNm1
+wr3I+pkJhHc0Nnr6GOVaH0wbFy+x0wvlBKaxukxXXbNL4xsAwjJiGuaoAfCkG4vN
+yCV7lFlPOBPwLEoOpmz5lylhbV3DENKzxDDNtbi2X+8z76ErUSVOA7TFJcqrd3qu
+Z9jZ1ML9FlJnN9imEfc2zTOLEIfa5LNe4k7UkCf20mzEDPyh7cdP9xW+cZNWeTm6
+hSkmPYPgOmD4Q63CDHfQ7ClrxyvMBXYvYHSrleCoYHmFcgrEAAFY9bDc3zq3wISa
+1cLLpHlUt1H7T2WjGQ+GE2REdSjd83QmmJ8Ud6W5ixjOVfr7U8E/9fHnRRquzJxF
+yXLI+sTCBY4YOdQTj4Q0nN/6nhc08VMsDTV3CeoH+Wim53uDwrGIwvPMJysGfz7y
+NF+Ee5gnx48ct3/REEwM9ADdG1AybsZT+Bsca2KPdVmrcFxlGXITezIcR/HQo8Bu
+aKlIWSiTx2ZYcuolERjCYWIvvwHCSsJUpmOdrL59cplcp4NRGzP2BX09A2RFrRnR
+BbnqW3RqpERv7lHN80G2WOSQkMiTcudsOlg+h4GOp6bk8jQFerU6Z5fYFv5kJzE3
+MxinLDPjF++3mE/7EPOBDTn2mHoMWuTPtOV2naVJiwXqWxrt7XYMLsqhQlk/SXom
+nhcsv85S/S/90YY1c0IUTr+YMkbLYev61dz+HfGUjaj8W7LYQUDwg2Mh5WZ6LUWZ
+e7Zr4fO1GE77N69OicqgNlZmsFYHNBGVe6SMCNVI0Xo/SP9Y2j1rvnuw62tlIcsN
+27MasaMlzPuG21gwXNv9untRJa3BaBP4Rk1Q61YT0Rw/3qBYk58GEj7WoFOrg5cf
+fJx7Qz3H4yt5teRBTlmpRv2nsvl+E8sVUnaO5eUr61ZrqXujiRx5rcAa49yFVb7N
+GG017dbYTLgmu4iqCVIrdKZEiUYQtYKE0UTtpYlidKv2Uf7NB2QdSx9c3rnhK4bJ
+SQ1q08lsuEbfLhrIUrZzmzotpO1itCi2i1GDSK3fa7ZAUzPHK7a0D5RjTAUi7oh0
+6d62JzBqxqPy4Ju9KVluuflTxqivSjzVToPl+cGixccydszE3X8zrJqiSqv4h8++
++Mk7F794/8qdy/mt8wuNxsKWUdwko4E97iO0vc6TpBZgVLnCB8efxDAwtv1vv/kd
+KDjt/ux1VI7nHY7DPAhlDqdm7YrZN9c683YQjEWlqZdG6xLIOAou94wLLfSQrtbP
+q0nS9DHKJX5ZDhLu69Zz4fwbUDN6NtkZoSMgxeRyfXUrWSmPYztswWio7a0zF/C6
+sAMpG0UtF+9CTNLx09wu1wM52zypJkzbtT1NhI/SZ9Syd8TzM88vgGcEL0mejPjV
+vWvPMTB81PDQaa1groSX35AT2eIeDB18eFbsYvTk3RuLpvHRnh2ztHcy3G6fWofR
+vkRa/qFziOF173e+Y949IRq4aTPGE3dT1l99CzID1vpMD3PnkYS9ylFa3bKcdo+3
+zwGh5ykmPro1jG6tElWM9tQ32QAEmDJGp1Af8kzzcZrdig4TZpoRp4fZVefWGXzO
+NeMcg9oyt7HeCPqG3VFVrkGxhoP7n04H9wd6NDkDnBwstoyW8TWRhCL7dq0P1IKY
+u4hRlgnGuWppnsSLJ4T2yk9cvukdFxzC5WCX4Hj27It/+vECTzsGhSOzQkLdefrh
+X3/4qVvnFhjo+NG//BuTjjCzCD8M2LlCp/AGxh/TmZ9nuGPC4F14I73cbd88jycX
+HjY/N3qtS4aIOZRDl+c8nuNYBt/RvRD3g4Ln60OPUkQp509nzmN0k0cq7nFSdcLg
+0QqMgufFUM8ZTRpz6Amu1FDzQwavzhF6K9/44XkM3tfrIXMs/d6ZOIkVY3aGm9/9
+Uel17+r8l9d/xbA1JljM6jDtMm799sVLZG8o/M7lvPR7lzcCVdEyoOBjviR7F1U0
+PM6MUWXyfA1BRossk2PUEb+699ef/1riPI9FN+39jFGR30Jqj+dahtFoaZ+JOReM
+zwOUIbBEY8MxwJ/914fR/X7tKtmqRabjw6KkI8TN5tDO3IXhnO3zCxQAeu7QbBUV
+4huZRWJZXIm/zK7RuZ3O1MykInHAc8I+Q1wvQ+b7mg4SxOD9T9659OU3AWFhFgm8
+mK2J99N/Hm0BMaAllJBdK+PWHUY3fzTtA0AhZhVrVysw2leMMqURIxWZw9FHUzAP
+Xl/T2QX16NAT0U1dvNALxSjXYsqjZFG3zlyI6ZnkvVT2Y2SjDjyzL/U16BSVwVN8
+HHIIPXyDD7y8lBPdB8EBxCyE8SqMg7MoPHJHpnBiBwJ2dB+mtzKQSpje/MU7yxpj
+uJ8xSgWDEbxtwSg+BICK1BjO2WCOhjt3wfmYawDLfcSohEQKGo6ZakKMFpoD0fhi
+ocmVTJXxIXIW3om/wCUDptEvjAWIB4ncucsAtDInglSewWt8BKxxqYz6Zf/GBGMB
+oyL7hjQhijkmCLK9BsKX2QAoG1Cdquv1+wmjmQQFWSqQaWH0pK31hCMYWAhl1ng0
+fGAuLo3cnWVyPMulYwr4IEYZllTDaASQ6MtMNQquxuD6EOj83IssHCUwKIKPM0qY
+sLOzRPhvNO4Kn/ZJOyiZrL/6lmFUkoSVSUrA4JkPsPRZ7sxRCMH1+3M/ZeD8Pseo
+T9I2ZYxSBARDYsrZkPp67SrQw4Q5ZmyyHGMU2ryjeCMfHYpR+YlB7syksOqSzDD1
+gx2/aZybZ8Vef/gpCyK1hbsMaS8b2LVYZ8MoZQm+lBu27qAFyqBdHiEiqRn2PUbF
+kcNydm8Po9u24fc1YwwPucN4YwhXNbVnvNnlagSMKmFGGhBcw6gxwgpGybck1YKx
+NEZacmccwIqJazS62rb7KRyL7BGFS65EmFRxNT9Yhlihf2PucEk0kkscJrMBA6Mx
+YwDz/gk68S+aTGUfxS4mjMrstdRGU8ZooVjBqEd4VZzrGjBac4lixrnRGLW0IlmM
+UIuaEyAIbYw2jpCIRrOM5BrOzwnAoH46poQU0nIsCVT4wqX89GFA+NXz0czlcWai
+JdoEiE7MENp0jY8uN2L0QNv3xiZI6B9/NlVbMGppYBuCIQcwqnduBaOiwcxRlQby
+TO5Zf/e98sgyNz1WJRE9EMNsUF+vf0aTO5PKBhH21FlW3hg85FGmSTOMLmuudNxP
+rSjXvVmuG8zaUsiexZLsP9X3mfaT/2g4m0oPC5giRkud6ctv7tbso5UtxKo8Coxm
+Y2C0Jo+avGgbObaPRd8Abpku+WP1Dmh4sbwIsDPvKmbpRidSQgAzNodXugrYCQ0e
+o+acAK7MvH/azC7+NUwzBUbDXui+AaiM6ZwlL5oORnkI0xA+2gDoXDKaEKP4604y
+DjeE5biqM5FJm300YtRJEZksx0w3RzsXz1HIKmH7XSabYDoGVIA5Qbm5xbxf0SAP
+1V5yp1HXAUapTnmMkmvSvM+UO8z7h5tRsp3gEVy0ZqLL9n7er0fzb77y5jQxmru1
+nr55XvUevJk6CrVspzN1rT12cAz5MSdAyIJEB7+YTK86T8Tcw63Ivu64lrxNjkMG
+BFEI9/dRVVpDg+5/MEqrJgCEHdTfXuL++5fZtfDvlbVow9ezFUO2JuiIAjumnaLz
+AKRhAhRfLj3yNM1SAb7OfxS1bbnD62RpRW0v013ru6VVUtbZ1WG5qy1Rt+zXhxNb
+qjoTZRfq6Vi4qaej8Bs/PM8v8aFyHLcWizvj0WGifVv+coqzwJzl0KM9lWn0IIya
+C9WSSI1hT19uKDTLHNhqfDtLVp+SFZk5fGnPktJr1lkwV7WzdunjTIEM/DueYbc/
+lntueTDv59T8nrjWc+sFyyIoKNTDcgUqGm6dW8CdtP5wIGNpnaN4nGcrBu8nKTyX
+QJT1V98C4YOefVMJFrVDbIM/RzxTtGuqDIqiw3U4XF7OIAx7CqJCad260c1KnFpw
+M5YnzDqAEsLrtZ8s9FXrL083lJmJKeRLxgc0KtckupaJJJwK9MqbNBUv+fz/Dyo5
+g7clpmxBfL0YZdxm+khkywb3UiOU9QTbmm2fG+K+ZIs8oaRBRRsca/AEAj5Olys6
+6TEjlz8EOvooaVo1Zj7Dl5c736ZhlScu1DxEc60tq8fUYj4ZmNkWyqRrUwfQzpMF
+6wbr8rmFvi5i08bogSnY/OgOAi7FlRQNYQhU3btZyePe6mzfcF/KhU13GevHRZyb
+RkODCPbN8j0OWS+Zf8801/rG0RoRDbKF0kb8FAzsZy7wyGes9VSuG4A4rG5OWsD3
+WKbDGVyamxKslJ6BfXUt8KbZRCMo1x0WMBHbMZlenpImHEyywcP4k+gu6+++Z24r
+kCN5zt0mZoiyW4AvHoEgnqwUiJn7mIpgiOV3Rt9xRigRgw0LlyG+NRjdHRJF5LP/
++pCSouRWmBsd0DeiKPZmYJmyrBsBtVDS6bSakLcZ6tK1eRy30QcXoyI+UgEHWFdF
+ldEEsJssymIAD3SBVAtOCsd0QA0/eIJxgvvKqLl9opER7GNfY5QxHlTVMzUzbQ5J
+3uVFF31m8lnW87hquwyJxhwahj2OD9CdxKjBwnbencNy7n/dAc233O2sOVgNVDJT
+Eb5Sh6ojQdYoSu61qTtNct2IhZ5boC3AaKR43Az3xDmNGJBJRdv5juxIMvboX3yQ
+55PPLWsikyWtRjb8HIhEEyM35+1o6jZgtGux5B8cf/KP3/8BZDiIdCEf07MvQlnG
+NzxTcCdycTkzU5eTYeWhR+P5Oy+/8akc8oJ/LZ5z08JAoi0Mh3NV21CX3xWMapoD
+1Cn4xUmop68ZvsH3n7xzMRy4+K3vMUfIxu8y2WD4nX4vh04hf3n9V3iXt8OxJviy
+9EYdu10bf7NzP+1FUi7AvTea7jd17Yb/KPcSvl7/7M7lnOkdv3j/SgCNJICgG4cc
+pTzefsGG8qsmYmC2Pb4FFbj3549RAfQRbZycOUBwPnACTgNiBnIu89eNwT0M07Vi
+B+7foOQ9huMuLSRYzWIuuo3s9ruE0Vzdfvvq4smcZNzF5uF3ty9eIoaAGMBlhPNe
+fR9oVK26FCHoRU/P0XBwrZwFzwpIpP88D4QePeq1XfjcoaqO1OEl+PCYSuWre/ej
+inLcqLLj33qK/msCBp522SKM1mPuHn9efJztSCs5dFCD3MlNfdY7U/xzPfbOLcrd
+bJSuEzgopkRk0tk1wJGHCzpnkXgkrg32sCGPcXbDWN0w0FSNGA0brVV01qE/XD4e
+nCF7gWJ0lznjtQ6jLNPO9Oason8dPl/ufNvC0hlubyXgHvrFhUY+9Oj1h58i2qJN
+4MAQftOZC0lyxB+eYcSSF2TeIOVXWG5BMfajxuEMavQpsfRPNm1YLGoVE0vZpigN
+F5LtIrRxIM+ed4BiyomQ0loKyWvJAxWXeUxaPdQtps2U64nXYzqR7CZGS3m0KGNF
+ulbvzB0NSv8PAMu2hdgw6P6oBjNHMIvE+rvvARaLGn88+OplPQC8P3CW+CDh7Z+/
+9jZ4LQNUyrOWlfB21OqvP/81bVhM9sQToKGKhQxnspsPAZeHzzJFD7dP8RNuiNH0
+ahXGW/74/R/gflDwQxUHapZAL8FQH3ljsNl5xj8T3850aKNk6JYRM2uQa2zhmipG
+lZNBTmX2BNzJ2GI611msHP5iCDHwdIa3YOLGJRgPWtYaejyNsCuh+2x+azRL13ZB
+mYO3YCKTzhFALWZNe/UthtKX58vrieJ2wDh1MhoCUR9mnrJiCw1x4fLH+QmMQlbm
+mfJhukoW9kwdxvEsna1Q8qrmU2k7zcRMl+iWzYqh08eov5Ox6n0NV6KFHwslXegB
+X4xQ8N7oHMGXDKC7fWXNvI8zL5wJy+F2MO6EIDF6LOk5zyhvIIBJnTh/uCNiscjc
+CyX6LShe8pHMm/Ug5PH76h7gGyyvB04Ci8wOhGvpkaej0KLpp0G0ZqOfMT0YLGrJ
+A5k9vaZIxTwuV28YfNtPTJs1ZljI7mO0Mbdj14lT8STWRVkfLafzioRf3vzFOz1d
+/ZkTihkrARfOSJ73UBVMu5TtCG7giUF2o31KuGoXGuEpp2fPZy7rGJDBxTpg9GII
+E2XiSEyAwKQFWMxowgoz1kpCnEMOShqGsUyHyoh8grXCgpzkRJFZ3fQKIc6AuGHU
+AbEL3mkY3ZxNdzepotJ1ufn58Su/LDZpt98Yo7x2SmcasAjito/+5d8seo6ZH+kD
+C/4KKAT3JfERCTb5ziGyH+Ybq2E0F988SghMXmdjPKyezEtPRsgYYio6zFDAOtAs
+YBgF37UAJuo9lm+MGf9YOHcxwPIJdK1t1zBamjI0xrABo/oT6mkY9VnbW0W5ym+Z
+1hmLBnMU7GGMcqqZGIfbME5MZguIAIjXfrJApzgjJgkCmyzN/lWM8gYMdmBRlRua
+uzWkkJY4+mAHEDiiStBd+pqs1EQX3sbMpqbK4EPIKy0j8dELL9kxKbkkDWAuNHnk
+sGGUzFWS6sxmozGqPGlPYNSI6x5mLzeWxnRnnj5G62t9qeXMMuVsiAM+/iT+xUj3
+VeSoUaHZuzGWK/UcSdHRKcqjV2+AB/v53VhJkREP20HqljaHCz1joczOEDF69UZE
+v7QF42HZJNHeZT0YjVh3sD5c46NY6IMuPxyjft3cQxjNTet99sUged/fislpA4xO
+JE9JNnBmQ2UbqRyYIBFydab0yTTpbFUITZZ03RV6+Q2elNdYtyUJnO+rfEkbjd/J
+rJAheOYE7V/gbUA2NBiqNTa1iFGmLfAY5bNmAWCecmujx+iies8Qo4Wk3KmUIyk5
+DaP0UrUgAvCk9mPU74mg8znPt3ntHkbLfE/V2YZRMYUpaMqiMDG9AlMjATHLuofJ
+fdQViQZelszLg0NlmUF7upi6qPbabmTXuhVPQa3h4m6ZoCFKWpbGERjNh2FUpp/H
+KCfMcIx2mSCykO2xpdLA1N1DfJQ2b2q9xeZ3PqeG0b6TR/1+ZhC5Hnmahgl0fdCI
+demkcRGjCCWpWnh57nL51xHTilMkZdZmRsQ7tckcVbsGAqaroJgIlg90FuXxcyfp
+atiIUVZgTIxuxEe7i2reCkerxS3EUE5IlSpsqf0YBdEHj525TYCOh9Et1dJjlKUx
+B06Z2lh2CMFBo+VMnE7s7FAo8hyqr9c/Ywo72wy0U7z8INU/S45c9lE4J+Tx5zGo
+tjtPEhtTZaOc62xPJF3uHi0eesJOHW+SR0uV3GM0cxlHxscohWP0gFlqaIYjUpc1
+kXm7MRpzAgczNpMKblVP2g2MckvTYxTrL0/cAvHMLvAkwgiCIFWNzG2gQ3eh+Qmt
+BeBEspznCWBAs2RpbM7tYdIbZFaLYIZ2iUKYRRqED3hjyPCjAmumOw49PfYJj5SO
+AbrpzJlT8lEhWlgMo9yntS0WmquoM9laz5upM3m7GCNRbUcAiw/3SwNAZU+LGHUB
+Ve0iMgie9bN9DrqzGM1UurK1PmbnIpmefucukAo4UkOn8TwaXCQHHbksj1DC2MSN
+e90qHMJLovSGt2Mm8NCwnr7OiF5RPKSZFV6StPnUnHggju2YZyqzRkOSYNTM1NyC
+J+zwxiWX+cyz3sUqRvvCR+NRtq7f8Mjnr71t55VxT7WQ46DIYvHNYJLANpBsEEYH
+vKL9GDWFHZyA2ELPkvAZ32CqoceBTi7f3u3DkMfcyuBn5lNC7308G04/GupDqZnx
+ZuJOD5gQvaoD/qQQiBB0zojhIioAQD+zvdboZKRVIuDAepljbDFK6l3uxwJ2eISc
+rwSQWF7RTD4STyyXpZAHoGFtcbsMZdehzJuvvFnxpHn1LbwLqiRzp9XdBdtBga08
+/rwlGJzUtYMYjUq3MH/1Z5snp6R/BhOV8Z7yZl+O3BkU84PRey04sInguFEUVKke
+kTtGwU4LkZx+wUeJUmmm7ldM5tYTdlge6uUMutz8XHICMVnjqri3SpnHoheBQzAf
+MaxbHGI+ZJqxzpkkl+N5pKyqvGWOb2kLRm33RLwpaEOcFAfdWYzW8NpgnnS/jupu
+jxLH8MbUGIw9GzhyV4E8wmg+KvidOfqPcYty6Ho6MJFGTpXyEB9vKRunCawtq2F2
+ibapSrkmX+dBQsWkAbpLGB09nJvo9M0PT+4g3ugoRBwwdIRKfTDKnjq7WubKm2R7
+Bxs7Cqxa+Q2m8VRJDwc8HHvvfrGpuOTWYXRiPGAL5TQOs4IAyhl4J9uuqelPTkBx
+3nB92Ewh468eu0rC6SEuWzrs7Rvtp4nR1pGMOhYpGvzRv+vlGd07mSRna3yxTQDN
+LaalM0crhJlCNxuulDA6xsB35tBSyFI0NrV5YW0LRZtJCAL7+JVfjplGNGF061Qm
+yR+Wrj9RjZikbebEX17/lXHQ7e8nJYw2k9nInPfG9GvVcqLVLB7q59Oy7gwr3e8Y
+TbRpkmicEC77zd0dXeITRhNtmrDULMq+XYyJnZDLSMJoognRTIwm5zZHX09Tbwcf
+TUrufqPKiMcMsiCmQCyK0ko/cVNowmiiTZCFfDCYOwQmaMq7XcBlwmii0VRGOgS3
+9Eeetn3OvvubMJpoakRXGx5T8dELLzGJS+EsoO3jo9PuskQ7SFUHNIvkWerMXX/4
+qZg4qArKXVDka1fC6P4mw6h6PC6Ko+qt8wvMR7T70ufglTC636n0x5UjCW6duXD7
+ylpPYTB1gBYJo/uLajHfMzFFNY9cWzl++vbFS2b73AlP0K1dCaP7hnwO6wOaJ6Zz
+hNnX1t99j8GMu6+2b3gljO4P0hwTmUarMkDqw8ef/+SdizEUVtHZKoAWCaP7iGZi
+cg3m6v/ohZeY49x2NYtp6OzjXGPbR5OVtD1Ui1tscMp2ya0OlMkB8AHLOsOvi+qe
+u6GzhTDdAKNl9HfCaIvJZyfIfCBuZ25Vzzb/87++Gk+SaNlSvuE1Lkb3Svb1fUcW
+hK3xGzy6N8RqPvQoxM2PX/nl7StrkDhtQX8AMerzeCWaFvmcAKR4clVnbrFzmEdN
+rHXm//MfnuLRvUzuwijNmj7UNrV9w2tDeXSWHZFourTEQx00/Qlzs0G4vHXmwq3z
+C4FZ/vbSl2tXLTmUH8qilVLm+NcojGIiAqaYkYnaQH/7ze9uX7wUEkWtXYXS8/X6
+Zz7BW+FysT9g11CMNuaiTzQt4uU/9JxWvtORmdO9mjHar8ouiaZLhj/+W7jP951k
+eX9PSZnjX6POFUlXutpwJYymq+3X/wdG5EotZWjVQAAAAABJRU5ErkJggg=="/>
+</g>
+</g>
+</g>
+<path transform="matrix(1,0,0,-1,0,841.92)" d="M467.1 838.52H594.8V816.27H467.1Z" fill="#ffffff" fill-rule="evenodd"/>
+<g clip-path="url(#clip_702)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Calibri"><tspan y="-824.28" x="474.6 480.35957 487.4395 493.43977 498.11964 500.8796 506.64027 509.15739 513.3581 515.87527 521.7596 527.16036 533.99966 541.32028 546.59957 553.3196 560.16 567.2399">PUBLIC / CYHOEDDUS</tspan></text>
+</g>
+<g clip-path="url(#clip_703)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="11.04" font-family="Calibri"><tspan y="-824.28" x="572.16"> </tspan></text>
+</g>
+<g clip-path="url(#clip_704)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-758.76" x="82.44 89.04 92.4 98.4 104.4 108.36 113.64001 116.64001 120.600009 126.72001 130.68001 134.04001 137.04001 148.32 154.32 159.6 162.96 167.64 176.28 182.28 188.28 191.4 197.99999 204.11998 208.07999 213.35999 219.35999 224.03998 227.39998 232.67998 237.35997 240.35997 246.35997 249.71997 254.99997 260.99998 265.08 270.36 279.71998">Figure (6): WhatsApp Forensics diagram.</tspan></text>
+</g>
+<g clip-path="url(#clip_705)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-758.76" x="282.72"> </tspan></text>
+</g>
+<g clip-path="url(#clip_706)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-758.76" x="467.88">3</tspan></text>
+</g>
+<g clip-path="url(#clip_707)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-758.76" x="473.88">6</tspan></text>
+</g>
+<g clip-path="url(#clip_708)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-758.76" x="479.88"> </tspan></text>
+</g>
+<g clip-path="url(#clip_709)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-744.96" x="82.44 89.04 92.4 98.4 104.4 108.36 113.64 116.64 120.6 126.72 130.68 134.04 137.04 148.31999 154.31999 159.59999 162.95999 167.63999 176.27999 182.27999 188.27999 191.27999 200.03998 205.31998 208.67998 213.95998">Figure (7): WhatsApp Data </tspan></text>
+</g>
+<g clip-path="url(#clip_710)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-744.96" x="216.96 225.6 230.88 236.88 242.88 246.24 250.92 254.28 257.63999 260.99998 266.99998 272.99998 275.99998 279.35997 285.35997 291.35997 294.71995">Acquisition tools</tspan></text>
+</g>
+<g clip-path="url(#clip_711)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-744.96" x="299.4"> </tspan></text>
+</g>
+<g clip-path="url(#clip_712)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-744.96" x="467.88">3</tspan></text>
+</g>
+<g clip-path="url(#clip_713)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-744.96" x="473.88">7</tspan></text>
+</g>
+<g clip-path="url(#clip_714)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-744.96" x="479.88"> </tspan></text>
+</g>
+<g clip-path="url(#clip_715)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-731.16" x="82.44 89.04 92.4 98.4 104.4 108.36 113.64 116.64 120.6 126.72 130.68 134.04 137.04 148.31999 154.31999 159.59999 162.95999 167.63999 176.27999 182.27999 188.27999 191.39998 196.67998 202.79998 208.07997 212.03997 218.03997 224.03997 227.39997 232.67996 238.67996 241.67996 247.67996 252.95996 256.31996 261.59996 267.71995 272.99995 277.67994 282.95994">Figure (8): WhatsApp encrypted database.</tspan></text>
+</g>
+<g clip-path="url(#clip_716)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-731.16" x="286.08"> </tspan></text>
+</g>
+<g clip-path="url(#clip_717)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-731.16" x="467.88">3</tspan></text>
+</g>
+<g clip-path="url(#clip_718)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-731.16" x="473.88">8</tspan></text>
+</g>
+<g clip-path="url(#clip_719)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-731.16" x="479.88"> </tspan></text>
+</g>
+<g clip-path="url(#clip_720)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-717.36" x="82.44 89.04 92.4 98.4 104.4 108.36 113.64 116.64 120.6 126.71999 130.68 134.0412 137.0412 145.6812 149.6412 153.0012 156.3612 160.32122 165.72122 171.00124 174.36124 177.36124 181.32125 186.72126 192.00127 198.00127 204.12128 209.40129 213.3613 219.3625 222.3625 227.64252 233.64252 239.04253 243.00254 246.36254">Figure (9): Artifact recovery chart.</tspan></text>
+</g>
+<g clip-path="url(#clip_721)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-717.36" x="249.48"> </tspan></text>
+</g>
+<g clip-path="url(#clip_722)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-717.36" x="467.88">3</tspan></text>
+</g>
+<g clip-path="url(#clip_723)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-717.36" x="473.88">8</tspan></text>
+</g>
+<g clip-path="url(#clip_724)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-717.36" x="479.88"> </tspan></text>
+</g>
+<g clip-path="url(#clip_725)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-703.2" x="82.44 89.04 92.4 98.4 104.4 108.36 113.64 116.64 120.6 126.6 132.71999 136.68 140.04 143.04 151.68 155.04 161.04 164.4 167.76 173.04 176.4 179.4 186 192 196.08 201.48001 207.48001 212.16002 215.52002 220.80002 225.48003 228.48003 231.84003 237.84003 243.84003 247.20003">Figure (10): Digital Forensics tools</tspan></text>
+</g>
+<g clip-path="url(#clip_726)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-703.2" x="251.88"> </tspan></text>
+</g>
+<g clip-path="url(#clip_727)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-703.2" x="467.88 473.88">39</tspan></text>
+</g>
+<g clip-path="url(#clip_728)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-703.2" x="479.88"> </tspan></text>
+</g>
+<g clip-path="url(#clip_729)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-689.4" x="82.44 89.04 92.4 98.4 104.4 108.36 113.64001 116.64001 120.600009 126.600009 132.72 136.68001 140.04001 143.04001 151.68001 158.52 162.36 165.36 172.68001 177.96 184.08 189.36 193.32 198 201.12 209.76 213.12 216.48 222.48 225.48 231.48 234.84 240.84 246.12 252.12 257.4 263.4 268.68 272.03999 278.03999 281.03999 284.39997 289.67997 294.95997 300.95997 306.95997 312.95997 316.31996 322.43995 328.43995">Figure (11): OSI Layers with blockchain technology</tspan></text>
+</g>
+<g clip-path="url(#clip_730)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-689.4" x="334.44"> </tspan></text>
+</g>
+<g clip-path="url(#clip_731)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-689.4" x="467.88">4</tspan></text>
+</g>
+<g clip-path="url(#clip_732)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-689.4" x="473.88">2</tspan></text>
+</g>
+<g clip-path="url(#clip_733)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-689.4" x="479.88"> </tspan></text>
+</g>
+<g clip-path="url(#clip_734)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-675.6" x="82.44 89.04 92.4 98.4 104.4 108.36 113.64001 116.64001 120.600009 126.600009 132.72 136.68001 140.04001 143.04001 149.76001 153.72002 159.72002 163.68003 168.96002 173.64002 178.32 181.68001 187.68001 193.68001 198.96 202.44 205.44 209.40001 215.40001 218.76001 224.04001 228.72 231.72 235.08 241.08">Figure (12): Professional roles in </tspan></text>
+</g>
+<g clip-path="url(#clip_735)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-675.6" x="244.08 248.04 254.04 258 263.28 269.28 273.96 277.31999 282.59999 287.27998 290.27998 299.03999 304.31999 307.67997 312.95997 315.95997 324.11997 330.11997 335.39997 339.35997">forensics Data Chart</tspan></text>
+</g>
+<g clip-path="url(#clip_736)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-675.6" x="342.72"> </tspan></text>
+</g>
+<g clip-path="url(#clip_737)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-675.6" x="467.88">4</tspan></text>
+</g>
+<g clip-path="url(#clip_738)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-675.6" x="473.88">4</tspan></text>
+</g>
+<g clip-path="url(#clip_739)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-675.6" x="479.88"> </tspan></text>
+</g>
+<g clip-path="url(#clip_740)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-661.8" x="82.44 89.04 92.4 98.4 104.4 108.36 113.64 116.64 120.6 126.6 132.72 136.68 140.04 143.04 150.35999 156.35999 162.35999 167.63999 171.59998 174.95998 180.23998 186.35997 191.63997 196.91997 199.91997 203.39997 208.67996 214.67996 219.95996 223.31876 226.31876 229.67876 235.67876 238.67876 242.63875 248.63875 252.59874 257.87876 263.87876 268.55876 271.91874 277.19874 281.87873 284.99873 293.6387 298.9187 302.2787 307.5587 310.5587 318.5987 324.7187 329.9987 333.95869">Figure (13): Experience level in forensics Data Chart</tspan></text>
+</g>
+<g clip-path="url(#clip_741)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-661.8" x="337.32"> </tspan></text>
+</g>
+<g clip-path="url(#clip_742)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-661.8" x="467.88">4</tspan></text>
+</g>
+<g clip-path="url(#clip_743)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-661.8" x="473.88">5</tspan></text>
+</g>
+<g clip-path="url(#clip_744)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-661.8" x="479.88"> </tspan></text>
+</g>
+<g clip-path="url(#clip_745)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-648" x="82.44 89.04 92.4 98.4 104.4 108.36 113.64001 116.64001 120.600009 126.600009 132.72 136.68001 140.04001 143.04001 150.36002 156.36002 162.36002 165.72002 170.40001 173.40001 179.40001 182.76001 186.12001 189.48001 192.84001 198.12001 203.40001 206.76001 210.12001 216.12001 222.12001 225.12001 228.48001 234.48001 237.48001 248.76001 254.76001 260.04 263.4 268.08 276.72 282.72 288.72 291.72 295.68 301.68 305.63999 310.91999 316.91999 321.59999 325.08 330.36 335.03999 338.03999 346.68 351.96 355.31999 360.59999 363.59999 371.63999 377.63999 382.91999 386.87998">Figure (14): Tools utilization in WhatsApp forensics Data Chart</tspan></text>
+</g>
+<g clip-path="url(#clip_746)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-648" x="390.36"> </tspan></text>
+</g>
+<g clip-path="url(#clip_747)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-648" x="467.88">4</tspan></text>
+</g>
+<g clip-path="url(#clip_748)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-648" x="473.88">6</tspan></text>
+</g>
+<g clip-path="url(#clip_749)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-648" x="479.88"> </tspan></text>
+</g>
+<g clip-path="url(#clip_750)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-634.2" x="82.44 89.04 92.4 98.4 104.4 108.36 113.64001 116.64001 120.600009 126.600009 132.72 136.68001 140.04001 143.04001 150.36002 156.36002 159.72002 163.68003 168.96002 174.24002 177.72002 183.00002 189.00002 192.00002 198.00002 203.40003 206.76003 212.04003 215.04003 218.40003 224.40003 230.40003 235.68003 240.36002 243.36002 246.72002 252.72002 255.72002 267 273 278.28 281.63999 286.31999 294.96 300.96 306.96 309.96 313.91999 319.91999 324 329.28 335.28 339.96 343.31999 348.59999 353.27998 356.27998 364.91999 370.19999 373.55998 378.83998 381.83998 389.87998 395.87998 401.27998 405.23997">Figure (15): Extracted data types in WhatsApp forensics Data Chart</tspan></text>
+</g>
+<g clip-path="url(#clip_751)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-634.2" x="408.6"> </tspan></text>
+</g>
+<g clip-path="url(#clip_752)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-634.2" x="467.88">4</tspan></text>
+</g>
+<g clip-path="url(#clip_753)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-634.2" x="473.88">7</tspan></text>
+</g>
+<g clip-path="url(#clip_754)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-634.2" x="479.88"> </tspan></text>
+</g>
+<g clip-path="url(#clip_755)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-620.4" x="82.44 89.04 92.4 98.4 104.4 108.36 113.64001 116.64001 120.600009 126.600009 132.72 136.68001 140.04001 143.04001 153.72 159 162.36 168.36 174.36 180.36 185.04 188.04 194.04 198.71999 204.12 210.12 213.12 216.48 222.48">Figure (16): Methods used in </tspan></text>
+</g>
+<g clip-path="url(#clip_756)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-620.4" x="225.48 236.76 242.76 248.04 251.4 256.08 264.71998 270.71998 276.71998 279.71998 283.67997 289.67997 293.75996 299.03996 305.03996 309.71995 313.07994 318.35993 323.03993 326.1599 334.7999 340.0799 343.43989 348.71989 351.71989 359.75868 365.75868 371.03868 374.99867">WhatsApp forensics Data Chart</tspan></text>
+</g>
+<g clip-path="url(#clip_757)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-620.4" x="378.48"> </tspan></text>
+</g>
+<g clip-path="url(#clip_758)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-620.4" x="467.88">4</tspan></text>
+</g>
+<g clip-path="url(#clip_759)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-620.4" x="473.88">8</tspan></text>
+</g>
+<g clip-path="url(#clip_760)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-620.4" x="479.88"> </tspan></text>
+</g>
+<g clip-path="url(#clip_761)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-606.6" x="82.44 89.04 92.4 98.4 104.4 108.36 113.64001 116.64001 120.600009 126.600009 132.72 136.68001 140.04001 143.04001 151.08 157.08 162.36 165.72 169.08 174.36 180.36 186.36 191.64 196.31999 199.31999 202.79999 208.79999 211.79999 223.07999 229.07999 234.35999 237.71999 242.39998 251.03998 257.03999 263.03999 266.03999 269.99998 275.99998 280.08 285.36 291.36 296.03999 299.39997 304.67997 309.35997 312.35997 321.11997 326.39997 329.75996 335.03996 338.03996 346.07997 352.07997 357.35997 361.31996">Figure (17): Challenges in WhatsApp forensics Data Chart</tspan></text>
+</g>
+<g clip-path="url(#clip_762)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-606.6" x="364.8"> </tspan></text>
+</g>
+<g clip-path="url(#clip_763)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-606.6" x="467.88 473.88">49</tspan></text>
+</g>
+<g clip-path="url(#clip_764)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-606.6" x="479.88"> </tspan></text>
+</g>
+<g clip-path="url(#clip_765)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-592.8" x="82.44 89.04 92.4 98.4 104.4 108.36 113.64001 116.64001 120.600009 126.600009 132.72 136.68001 140.04001 143.04001 150.36002 156.36002 161.64002 165.60002 171.60002 177.60002 180.96002 184.32003 190.32003 196.32003 201.00002 204.12001 207.48001 212.16 216.84 222.84 228.12 232.79999 235.79999 239.15999 245.15999 248.15999 259.43998 265.43998 270.71998 274.07997 278.75996 287.39997 293.39997 299.39997 302.39997 306.35997 312.35997 316.31996 321.71995 327.71995 332.39994 335.75993 341.03993 345.7199 348.7199 357.35993 362.63993 365.9999 371.2799 374.2799 382.31993 388.31993 393.5999 397.5599">Figure (18): Encryptions issues in WhatsApp forensics Data Chart</tspan></text>
+</g>
+<g clip-path="url(#clip_766)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-592.8" x="401.04"> </tspan></text>
+</g>
+<g clip-path="url(#clip_767)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-592.8" x="467.88">5</tspan></text>
+</g>
+<g clip-path="url(#clip_768)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-592.8" x="473.88">0</tspan></text>
+</g>
+<g clip-path="url(#clip_769)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-592.8" x="479.88"> </tspan></text>
+</g>
+<g clip-path="url(#clip_770)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-579" x="82.44 89.04 92.4 98.4 104.4 108.36 113.64 116.64 120.6 126.6 132.72 136.68 140.04 143.04 149.76 155.76 161.04 166.31999 171.59999 176.27999 180.95998 183.95998 188.03998 193.31998 196.67998 201.95998 205.07878 208.43997 214.43877 217.43877 228.71877 234.71877 239.99877 243.35877 248.03876 256.67875 262.67875 268.67875 271.67875 275.63874 281.63874 285.71873 290.99873 296.99873 301.6787 305.0387 310.3187 314.9987 317.9987 326.7587 332.0387 335.39869 340.67869 343.67869 351.7187 357.7187 362.9987 366.95869">Figure (19): Success rate in WhatsApp forensics Data Chart</tspan></text>
+</g>
+<g clip-path="url(#clip_771)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-579" x="370.44"> </tspan></text>
+</g>
+<g clip-path="url(#clip_772)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-579" x="467.88">5</tspan></text>
+</g>
+<g clip-path="url(#clip_773)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-579" x="473.88">0</tspan></text>
+</g>
+<g clip-path="url(#clip_774)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-579" x="479.88"> </tspan></text>
+</g>
+<g clip-path="url(#clip_775)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-565.2" x="82.44 89.04 92.4 98.4 104.4 108.36 113.64001 116.64001 120.600009 126.600009 132.72 136.68001 140.04001 143.04001 150.36002 156.36002 162.36002 165.72002 170.40001">Figure (20): Tools </tspan></text>
+</g>
+<g clip-path="url(#clip_776)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-565.2" x="173.4 178.68 182.63999 186.71999 191.99999 197.27999 200.63999 204.11998 210.11998 215.39998 221.39998 226.67998 231.35997 236.03997 239.03997 242.39997 248.39997 251.39997 262.67997 268.67997 273.95997 277.31996 281.99995 290.63874 296.63874 302.63874 305.63874 309.59873 315.71873 319.6787 325.0787 331.0787 335.7587 339.11869 344.39869 349.07868 352.07868 360.71867 365.99867 369.35865 374.63865 377.63865 385.67866 391.67866 396.95866 400.91865">effectiveness in WhatsApp forensics Data Chart</tspan></text>
+</g>
+<g clip-path="url(#clip_777)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-565.2" x="404.4"> </tspan></text>
+</g>
+<g clip-path="url(#clip_778)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-565.2" x="467.88">5</tspan></text>
+</g>
+<g clip-path="url(#clip_779)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-565.2" x="473.88">1</tspan></text>
+</g>
+<g clip-path="url(#clip_780)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-565.2" x="479.88"> </tspan></text>
+</g>
+<g clip-path="url(#clip_781)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-551.4" x="82.44 89.04 92.4 98.4 104.4 108.36 113.64001 116.64001 120.600009 126.600009 132.72 136.68001 140.04001 143.16 147 156.36 162.36 167.64 172.92 176.28 179.28 185.28 189.24 192.36 203.76001 209.76001 215.04001 218.40001 223.08 231.72 237.72 243.72 246.72 250.68001 256.68 260.63999 265.91999 271.91999 276.59999 279.95997 285.23997 289.91996 293.03996 298.31996 304.31996 309.59996 312.95994 318.95994 323.75993 327.1199 331.7999 334.7999 343.4399 348.7199 352.0799 357.3599 360.3599 368.3999 374.3999 379.6799 383.6399">Figure (21): Impact of WhatsApp forensics analysis Data Chart</tspan></text>
+</g>
+<g clip-path="url(#clip_782)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-551.4" x="387.12"> </tspan></text>
+</g>
+<g clip-path="url(#clip_783)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-551.4" x="467.88">5</tspan></text>
+</g>
+<g clip-path="url(#clip_784)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-551.4" x="473.88">2</tspan></text>
+</g>
+<g clip-path="url(#clip_785)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-551.4" x="479.88"> </tspan></text>
+</g>
+<g clip-path="url(#clip_786)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-537.6" x="82.44 89.04 92.4 98.4 104.4 108.36 113.64001 116.64001 120.600009 126.600009 132.72 136.68001 140.04001 143.04001 151.68001 157.68001 163.68001 167.64002 173.64002 177.00002 183.00002 186.00002 192.00002 198.00002 204.12001 210.12001 215.40001 218.40001 223.68001 230.40001 235.68001 239.04001 242.40001 245.76001 251.76001 257.76 262.44 267.72 270.72 280.08 283.08 288.36 297 303 306.36 309.71998 313.67997 317.03996 322.43995 327.71995 331.07994 334.4399 340.4399 346.4399 351.1199 356.3999 359.3999 365.3999 371.3999 374.7599 378.11988 384.11988 390.11988">Figure (22): Android phone &#x201c;Settings&#x201d; &#x0026; &#x201c;Notifications&#x201d; option.</tspan></text>
+</g>
+<g clip-path="url(#clip_787)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-537.6" x="393.12"> </tspan></text>
+</g>
+<g clip-path="url(#clip_788)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-537.6" x="467.88">5</tspan></text>
+</g>
+<g clip-path="url(#clip_789)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-537.6" x="473.88">3</tspan></text>
+</g>
+<g clip-path="url(#clip_790)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-537.6" x="479.88"> </tspan></text>
+</g>
+<g clip-path="url(#clip_791)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-523.8" x="82.44 89.04 92.4 98.4 104.4 108.36 113.64001 116.64001 120.600009 126.600009 132.72 136.68001 140.04001 143.04001 151.68001 157.68001 161.04001 164.40001 168.36002 171.72002 177.00002 182.28002 185.64002 189.00002 195.00002 201.00002 204.12001 212.76001 218.76001 224.76001 230.04001 236.04001 241.32 246.6 252.6 255.6 262.32 267.6 270.96 274.31999 277.67997 283.67997 289.67997 294.35997 297.35997 300.71995 306.71995 309.71995 318.35997 324.47996 330.47996 334.43995 340.43995 343.79994 349.79994 352.79994 358.79994 364.79994 370.79994 376.79994 382.07994">Figure (23): Notification Advanced Settings in Android phone.</tspan></text>
+</g>
+<g clip-path="url(#clip_792)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-523.8" x="385.2"> </tspan></text>
+</g>
+<g clip-path="url(#clip_793)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-523.8" x="406.44"> </tspan></text>
+</g>
+<g clip-path="url(#clip_794)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-523.8" x="467.88">5</tspan></text>
+</g>
+<g clip-path="url(#clip_795)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-523.8" x="473.88">4</tspan></text>
+</g>
+<g clip-path="url(#clip_796)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-523.8" x="479.88"> </tspan></text>
+</g>
+<g clip-path="url(#clip_797)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-510" x="82.44 89.04 92.4 98.4 104.4 108.36 113.64001 116.64001 120.600009 126.600009 132.72 136.68001 140.04001 143.04001 151.68001 157.68001 161.04001 164.40001 168.36002 171.72002 177.00002 182.28002 185.64002 189.00002 195.00002 201.00002 204.12001 210.12001 213.48001 218.16 221.52 227.52 231.48001 237.48001 240.48001 249.12001 257.76 261.12 269.76 276.36003 283.08003 286.08003 292.08003 298.08003 301.44 304.8 310.8 316.8 321.47999">Figure (24): Notification history ON/OFF options.</tspan></text>
+</g>
+<g clip-path="url(#clip_798)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-510" x="324.48"> </tspan></text>
+</g>
+<g clip-path="url(#clip_799)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-510" x="467.88">5</tspan></text>
+</g>
+<g clip-path="url(#clip_800)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-510" x="473.88">5</tspan></text>
+</g>
+<g clip-path="url(#clip_801)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-510" x="479.88"> </tspan></text>
+</g>
+<g clip-path="url(#clip_802)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-496.2" x="82.44 89.04 92.4 98.4 104.4 108.36 113.64001 116.64001 120.600009 126.600009 132.72 136.68001 140.04001 143.04001 154.32 160.32 165.6 168.96 173.64 182.28 188.28 194.28 197.4 206.04 212.04 215.4 218.76 222.72 226.08 231.36 236.64 240 243.36 249.36 255.36 258.36 264.36 267.71998 272.39997 275.75996 281.75996 285.71995 291.71995 294.71995 300.71995 306.71995 309.71995 318.35997 324.35997 330.35997 334.31996 340.31996 343.67994 349.67994 352.67994 358.67994 364.67994 370.67994 376.67994 381.95994 384.95994 389.63993 394.91993 398.2799 401.6399 404.99989 410.99989 416.99989 421.67988">Figure (25): WhatsApp Notification history on Android phone settings.</tspan></text>
+</g>
+<g clip-path="url(#clip_803)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-496.2" x="424.68"> </tspan></text>
+</g>
+<g clip-path="url(#clip_804)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-496.2" x="467.88">5</tspan></text>
+</g>
+<g clip-path="url(#clip_805)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-496.2" x="473.88">6</tspan></text>
+</g>
+<g clip-path="url(#clip_806)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-496.2" x="479.88"> </tspan></text>
+</g>
+<g clip-path="url(#clip_807)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-482.4" x="82.44 89.04 92.4 98.4 104.4 108.36 113.64 116.64 120.6 126.6 132.72 136.68 140.04 143.04 151.68 156.35999 161.63999 165.59998 168.59998 174.59998 177.59998 185.63997 191.63997 196.91997 200.27997 203.39997 210.11995 215.39995 219.35875 224.63875 229.91875 235.91875">Figure (26): User 1 Chat Screen.</tspan></text>
+</g>
+<g clip-path="url(#clip_808)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-482.4" x="239.04"> </tspan></text>
+</g>
+<g clip-path="url(#clip_809)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-482.4" x="467.88">5</tspan></text>
+</g>
+<g clip-path="url(#clip_810)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-482.4" x="473.88">7</tspan></text>
+</g>
+<g clip-path="url(#clip_811)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-482.4" x="479.88"> </tspan></text>
+</g>
+<g clip-path="url(#clip_812)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-468.6" x="82.44 89.04 92.4 98.4 104.4 108.36 113.64 116.64 120.6 126.6 132.72 136.68 140.04 143.04 151.68 156.35999 161.63999 165.59998 168.59998 174.59998 177.59998 185.63997 191.63997 196.91997 200.27997 203.39997 210.11995 215.39995 219.35875 224.63875 229.91875 235.91875">Figure (27): User 2 Chat Screen.</tspan></text>
+</g>
+<g clip-path="url(#clip_813)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-468.6" x="239.04"> </tspan></text>
+</g>
+<g clip-path="url(#clip_814)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-468.6" x="467.88">5</tspan></text>
+</g>
+<g clip-path="url(#clip_815)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-468.6" x="473.88">7</tspan></text>
+</g>
+<g clip-path="url(#clip_816)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-468.6" x="479.88"> </tspan></text>
+</g>
+<g clip-path="url(#clip_817)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-454.8" x="82.44 89.04 92.4 98.4 104.4 108.36 113.64001 116.64001 120.600009 126.600009 132.72 136.68001 140.04001 143.04001 151.08 157.08 163.08 169.08 174.36 178.32 183 188.28 191.64 195 201.12 207.12 210.12 216.12 221.4 224.76 233.4 238.68 243.95999 249.95999 252.95999 258.96 263.63999 269.03999 272.99998 275.99998 281.99998 284.99998 294.35997 297.35997">Figure (28): Conversation between user 1 &#x0026; 2</tspan></text>
+</g>
+<g clip-path="url(#clip_818)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-454.8" x="303.48"> </tspan></text>
+</g>
+<g clip-path="url(#clip_819)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-454.8" x="467.88">5</tspan></text>
+</g>
+<g clip-path="url(#clip_820)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-454.8" x="473.88">8</tspan></text>
+</g>
+<g clip-path="url(#clip_821)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-454.8" x="479.88"> </tspan></text>
+</g>
+<g clip-path="url(#clip_822)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-441" x="82.44 89.04 92.4 98.4 104.4 108.36 113.64001 116.64001 120.600009 126.600009 132.72 136.68001 140.04001 143.04001 151.08 157.08 163.08 169.08 174.36 178.32 183 188.28 191.64 195 201.12 207.12 210.12 216.12 221.4 224.76 233.4 238.68 243.95999 249.95999 252.95999 258.96 263.63999 269.03999 272.99998 275.99998 281.99998 284.99998 294.35997 297.35997">Figure (29): Conversation between user 2 &#x0026; 1</tspan></text>
+</g>
+<g clip-path="url(#clip_823)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-441" x="303.48"> </tspan></text>
+</g>
+<g clip-path="url(#clip_824)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-441" x="467.88">5</tspan></text>
+</g>
+<g clip-path="url(#clip_825)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-441" x="473.88">8</tspan></text>
+</g>
+<g clip-path="url(#clip_826)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-441" x="479.88"> </tspan></text>
+</g>
+<g clip-path="url(#clip_827)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-427.2" x="82.44 89.04 92.4 98.4 104.4 108.36 113.64 116.64 120.6 126.6 132.72 136.68 140.04 143.04 153.71999 158.99999 163.67998 168.35997 173.63997 179.63997 184.91997 187.91997 193.91997 197.27997 202.07996 207.35996 213.35875 219.35875 224.63875 229.91875 233.99875 239.27875 245.27875 248.27875 251.63875 257.63877 260.63877 265.91877 271.91877 277.19877 280.55876">Figure (30): Message disappeared in chat.</tspan></text>
+</g>
+<g clip-path="url(#clip_828)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-427.2" x="283.68"> </tspan></text>
+</g>
+<g clip-path="url(#clip_829)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-427.2" x="467.88 473.88">59</tspan></text>
+</g>
+<g clip-path="url(#clip_830)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-427.2" x="479.88"> </tspan></text>
+</g>
+<g clip-path="url(#clip_831)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-413.4" x="82.44 89.04 92.4 98.4 104.4 108.36 113.64 116.64 120.6 126.6 132.72 136.68 140.04 143.04 151.68 156.35999 161.63999 165.59998 168.59998 174.59998 177.59998 183.71997 188.99997 192.35997 197.63997 200.99997 204.35997 210.35877 216.35877 219.35877 224.03997 230.03876 239.39876 244.67876 247.67876 257.03877 262.31877 266.99876 271.67875 276.95875 282.95875 288.23875">Figure (31): User 2 deleting some message.</tspan></text>
+</g>
+<g clip-path="url(#clip_832)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-413.4" x="291.36"> </tspan></text>
+</g>
+<g clip-path="url(#clip_833)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-413.4" x="467.88 473.88">59</tspan></text>
+</g>
+<g clip-path="url(#clip_834)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-413.4" x="479.88"> </tspan></text>
+</g>
+<g clip-path="url(#clip_835)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-399.6" x="82.44 89.04 92.4 98.4 104.4 108.36 113.64001 116.64001 120.600009 126.600009 132.72 136.68001 140.04001 143.04001 151.68001 156.36 161.64 165.6 168.6 174.6 177.6 183.72 189 192.36 195.72 199.08 205.08 211.08 214.08 220.08 225.36 234 237 246.36 251.64 256.32 261 266.28 272.28 277.56 280.56 286.56 292.56 295.91999 299.27998 303.23997 306.59996 311.99995 317.27995 320.63993 323.9999 329.9999 335.9999">Figure (32): User 1 getting new message notification.</tspan></text>
+</g>
+<g clip-path="url(#clip_836)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-399.6" x="339"> </tspan></text>
+</g>
+<g clip-path="url(#clip_837)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-399.6" x="467.88">6</tspan></text>
+</g>
+<g clip-path="url(#clip_838)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-399.6" x="473.88">0</tspan></text>
+</g>
+<g clip-path="url(#clip_839)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-399.6" x="479.88"> </tspan></text>
+</g>
+<g clip-path="url(#clip_840)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-385.8" x="82.44 89.04 92.4 98.4 104.4 108.36 113.64001 116.64001 120.600009 126.600009 132.72 136.68001 140.04001 143.04001 151.68001 156.36 161.64 165.6 168.6 174.6 177.6 182.40001 187.68001 193.68001 199.68001 203.04001 209.04001 215.04001 218.04001 223.32 226.32 232.32 237.6 246.24 249.24 258.6 263.88 268.56 273.24 278.52 284.63999 289.91999">Figure (33): User 2 sending a new message.</tspan></text>
+</g>
+<g clip-path="url(#clip_841)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-385.8" x="293.04"> </tspan></text>
+</g>
+<g clip-path="url(#clip_842)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-385.8" x="467.88">6</tspan></text>
+</g>
+<g clip-path="url(#clip_843)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-385.8" x="473.88">0</tspan></text>
+</g>
+<g clip-path="url(#clip_844)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-385.8" x="479.88"> </tspan></text>
+</g>
+<g clip-path="url(#clip_845)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-372" x="82.44 89.04 92.4 98.4 104.4 108.36 113.64 116.64 120.6 126.6 132.72 136.68 140.04 143.04 151.68 156.35999 161.63999 165.59998 168.59998 174.59998 177.59998 183.59998 189.71997 194.99997 200.99997 204.47997 209.75997 212.75997 216.11997 222.11997 225.11997 229.79877 235.07877 240.35877 243.35877 246.71877 252.71877 257.99879 260.99879 270.35877 275.63877 280.31877 284.99876 290.27876 296.39875 301.67875 306.35874">Figure (34): User 1 unable to see the messages.</tspan></text>
+</g>
+<g clip-path="url(#clip_846)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-372" x="309.48"> </tspan></text>
+</g>
+<g clip-path="url(#clip_847)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-372" x="467.88">6</tspan></text>
+</g>
+<g clip-path="url(#clip_848)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-372" x="473.88">1</tspan></text>
+</g>
+<g clip-path="url(#clip_849)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-372" x="479.88"> </tspan></text>
+</g>
+<g clip-path="url(#clip_850)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-358.2" x="82.44 89.04 92.4 98.4 104.4 108.36 113.64 116.64 120.6 126.6 132.72 136.68 140.04 143.04 151.68 156.35999 161.63999 165.59998 168.59998 174.59998 177.59998 183.71997 188.99997 192.35997 197.63997 201.11997 206.39997 212.39876 215.39876 224.75995 230.03995 234.71875 239.39875 244.67874 250.67874 255.95874 260.63874 263.63874 269.75874 275.03874 278.99873 284.99873 289.0787 294.3587 297.3587 303.3587 308.0387 313.3187 317.2787 320.39869 326.39869 329.39869 334.07868 339.35868 344.63868 350.63868">Figure (35): User 2 deleted messages before user 1 seen.</tspan></text>
+</g>
+<g clip-path="url(#clip_851)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-358.2" x="353.76"> </tspan></text>
+</g>
+<g clip-path="url(#clip_852)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-358.2" x="467.88">6</tspan></text>
+</g>
+<g clip-path="url(#clip_853)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-358.2" x="473.88">1</tspan></text>
+</g>
+<g clip-path="url(#clip_854)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-358.2" x="479.88"> </tspan></text>
+</g>
+<g clip-path="url(#clip_855)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-344.4" x="82.44 89.04 92.4 98.4 104.4 108.36 113.64 118.44 122.4 128.40001 134.40001 138.36 141.72 146.52 155.16 159.9588 165.2388 169.19879 173.9988 179.9988 184.7988 188.75879 194.03879 200.15879 205.43878 210.71878 214.07878 218.75878 223.55878 226.91878 232.91878 238.19878 242.99878 248.99878 254.27878 257.63877 262.91877 266.27876 271.55876 277.55876 282.35874 291.71873 296.99873 301.6787 306.3587 311.6387 317.7575 323.0375 327.7175 332.5175 336.47749 340.43748 346.43748 355.79747 360.59745 363.95744 369.95744 375.23744 380.0374 386.0374 392.0374 395.3974 398.7574 402.71739 406.07737 411.35737 416.63737 419.99736 423.35734 429.35734 435.35734">Figure (36): User 1 reveals the deleted messages from the notification </tspan></text>
+</g>
+<g clip-path="url(#clip_856)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-330.6" x="82.44 88.44 91.8 96.48 99.840007 105.840007 109.8 115.8">history.</tspan></text>
+</g>
+<g clip-path="url(#clip_857)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-330.6" x="118.8"> </tspan></text>
+</g>
+<g clip-path="url(#clip_858)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-344.4" x="467.88">6</tspan></text>
+</g>
+<g clip-path="url(#clip_859)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-344.4" x="473.88">2</tspan></text>
+</g>
+<g clip-path="url(#clip_860)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-344.4" x="479.88"> </tspan></text>
+</g>
+<g clip-path="url(#clip_861)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-316.8" x="82.44 89.04 92.4 98.4 104.4 108.36 113.64 116.64 120.6">Figure (3</tspan></text>
+</g>
+<g clip-path="url(#clip_862)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-316.8" x="126.6">7</tspan></text>
+</g>
+<g clip-path="url(#clip_863)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-316.8" x="132.72 136.68 140.04 143.15999 146.99999 156.35999 161.63999 167.63999 172.91999 176.03998 179.99997 183.35997 186.71997 191.99997 194.99997 199.79996 205.79996 211.07996 216.35996 221.63996 226.31995 230.99994 234.95993 240.95993 244.31993 247.67993 253.67873 256.67875 262.07875 267.35874 273.35874 276.71873 282.71873 286.6787 291.9587 297.9587">): Image file successfully captured.</tspan></text>
+</g>
+<g clip-path="url(#clip_864)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-316.8" x="301.08"> </tspan></text>
+</g>
+<g clip-path="url(#clip_865)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-316.8" x="467.88">9</tspan></text>
+</g>
+<g clip-path="url(#clip_866)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-316.8" x="473.88">2</tspan></text>
+</g>
+<g clip-path="url(#clip_867)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-316.8" x="479.88"> </tspan></text>
+</g>
+<g clip-path="url(#clip_868)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-303" x="82.44 89.04 92.4 98.4 104.4 108.36 113.64 116.64 120.6">Figure (3</tspan></text>
+</g>
+<g clip-path="url(#clip_869)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-303" x="126.6">8</tspan></text>
+</g>
+<g clip-path="url(#clip_870)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-303" x="132.72 136.68001 140.04001 143.16 147.00002 156.36002 161.64002 167.64002 172.92002 176.04001 180.00002 183.36002 186.72002 192.00002 195.00002 198.36002 204.36002 207.36002 216.72002 222.00002 228.00002 234.00002 239.28002 242.64002 245.64002 250.92002 256.92 260.28 266.28 275.64 278.64 283.92 289.92 295.2 304.56 307.91999 313.91999 319.19999 322.19999 326.27998 332.27998 336.23997 339.23997 344.51997 350.51997 355.79997 359.15995 365.15995 369.83995 373.19993 377.8811">): Image file in magnet axiom examine for analysis.</tspan></text>
+</g>
+<g clip-path="url(#clip_871)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-303" x="381"> </tspan></text>
+</g>
+<g clip-path="url(#clip_872)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-303" x="467.88">9</tspan></text>
+</g>
+<g clip-path="url(#clip_873)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-303" x="473.88">3</tspan></text>
+</g>
+<g clip-path="url(#clip_874)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-303" x="479.88"> </tspan></text>
+</g>
+<g clip-path="url(#clip_875)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-289.2" x="82.44 89.04 92.4 98.4 104.4 108.36 113.64001 116.64001">Figure (</tspan></text>
+</g>
+<g clip-path="url(#clip_876)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-289.2" x="120.6 126.6">39</tspan></text>
+</g>
+<g clip-path="url(#clip_877)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-289.2" x="132.72 136.68 140.04 143.04 154.31999 160.31999 165.59999 168.95999 173.63999 182.27999 188.27999 194.27999 197.27999 203.39998 208.67998 212.03998 217.31998 223.31998 228.59998 233.27997 238.55997 241.55997 244.91997 248.27997 252.95877 256.31999">): WhatsApp database list.</tspan></text>
+</g>
+<g clip-path="url(#clip_878)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-289.2" x="259.44"> </tspan></text>
+</g>
+<g clip-path="url(#clip_879)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-289.2" x="467.88">9</tspan></text>
+</g>
+<g clip-path="url(#clip_880)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-289.2" x="473.88">4</tspan></text>
+</g>
+<g clip-path="url(#clip_881)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-289.2" x="479.88"> </tspan></text>
+</g>
+<g clip-path="url(#clip_882)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-275.4" x="82.44 89.04 92.4 98.4 104.4 108.36 113.64 116.64 120.6">Figure (4</tspan></text>
+</g>
+<g clip-path="url(#clip_883)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-275.4" x="126.6">0</tspan></text>
+</g>
+<g clip-path="url(#clip_884)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-275.4" x="132.72 136.68 140.04 143.04 154.31999 160.31999 165.59999 168.95999 173.63999 182.27999 188.27999 194.27999 197.27999 204.71999 210.71999 215.99999 219.95998 225.95998 231.95998 235.31998 240.59998 246.59998 249.59998 255.59998 260.87998 264.23997 269.51997 275.63877 280.91877 285.59877 290.87876">): WhatsApp Encrypted database.</tspan></text>
+</g>
+<g clip-path="url(#clip_885)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-275.4" x="294"> </tspan></text>
+</g>
+<g clip-path="url(#clip_886)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-275.4" x="467.88">9</tspan></text>
+</g>
+<g clip-path="url(#clip_887)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-275.4" x="473.88">5</tspan></text>
+</g>
+<g clip-path="url(#clip_888)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-275.4" x="479.88"> </tspan></text>
+</g>
+<g clip-path="url(#clip_889)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-261.6" x="82.44 89.04 92.4 98.4 104.4 108.36 113.64 116.64 120.6">Figure (4</tspan></text>
+</g>
+<g clip-path="url(#clip_890)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-261.6" x="126.6">1</tspan></text>
+</g>
+<g clip-path="url(#clip_891)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-261.6" x="132.72 136.68001 140.04001 143.04001 154.32 160.32 165.6 168.96 173.64 182.28 188.28 194.28 197.4 208.07999 216.71999 222.71999 225.71999 231.71999 236.99999 241.67998 247.67998 250.67998 256.68 261.96 265.31999 270.59999 273.59999 276.95997 280.31996 284.99995 288.35993">): WhatsApp MD5 hash data list.</tspan></text>
+</g>
+<g clip-path="url(#clip_892)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-261.6" x="291.36"> </tspan></text>
+</g>
+<g clip-path="url(#clip_893)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-261.6" x="467.88">9</tspan></text>
+</g>
+<g clip-path="url(#clip_894)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-261.6" x="473.88">6</tspan></text>
+</g>
+<g clip-path="url(#clip_895)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-261.6" x="479.88"> </tspan></text>
+</g>
+<g clip-path="url(#clip_896)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-247.8" x="82.44 89.04 92.4 98.4 104.4 108.36 113.64 116.64 120.6">Figure (4</tspan></text>
+</g>
+<g clip-path="url(#clip_897)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-247.8" x="126.6">2</tspan></text>
+</g>
+<g clip-path="url(#clip_898)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-247.8" x="132.72 136.68001 140.04001 143.04001 154.32 160.32 165.6 168.96 173.64002 182.28002 188.28002 194.28002 197.28002 203.40001 208.08002 213.36002 218.04003 221.04003 224.40003 227.76003 237.12003 242.40003 245.76003 249.12003 255.12003 260.40003">): WhatsApp uses timeline.</tspan></text>
+</g>
+<g clip-path="url(#clip_899)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-247.8" x="263.4"> </tspan></text>
+</g>
+<g clip-path="url(#clip_900)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-247.8" x="467.88">9</tspan></text>
+</g>
+<g clip-path="url(#clip_901)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-247.8" x="473.88">7</tspan></text>
+</g>
+<g clip-path="url(#clip_902)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-247.8" x="479.88"> </tspan></text>
+</g>
+<g clip-path="url(#clip_903)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-234" x="82.44 89.04 92.4 98.4 104.4 108.36 113.64 116.64 120.6">Figure (4</tspan></text>
+</g>
+<g clip-path="url(#clip_904)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-234" x="126.6">3</tspan></text>
+</g>
+<g clip-path="url(#clip_905)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-234" x="132.72 136.68001 140.04001">): </tspan></text>
+</g>
+<g clip-path="url(#clip_906)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-234" x="143.04 154.31999 160.31999 165.59999 168.95999 173.63999 182.27999 188.27999 194.27999 197.27999 203.39998 208.07997 213.35997 217.31998 220.31998 226.31998 230.27999 236.27999 240.23999 243.59999 246.95999 252.23999 256.91999">WhatsApp user profiles.</tspan></text>
+</g>
+<g clip-path="url(#clip_907)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-234" x="260.04"> </tspan></text>
+</g>
+<g clip-path="url(#clip_908)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-234" x="467.88">9</tspan></text>
+</g>
+<g clip-path="url(#clip_909)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-234" x="473.88">8</tspan></text>
+</g>
+<g clip-path="url(#clip_910)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-234" x="479.88"> </tspan></text>
+</g>
+<g clip-path="url(#clip_911)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-220.2" x="82.44 89.04 92.4 98.4 104.4 108.36 113.64 116.64 120.6">Figure (4</tspan></text>
+</g>
+<g clip-path="url(#clip_912)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-220.2" x="126.6">4</tspan></text>
+</g>
+<g clip-path="url(#clip_913)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-220.2" x="132.72 136.68001 140.04001 143.04001 154.32 160.32 165.6 168.96 173.64002 182.28002 188.28002 194.28002 197.28002 203.40001 208.08002 213.36002 217.32003 220.32003 228.36002 234.36002 240.36002 243.72002 249.00002 254.28002 257.64 262.32 265.32 268.68 272.03999 276.71998 280.07997">): WhatsApp user Contacts list.</tspan></text>
+</g>
+<g clip-path="url(#clip_914)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-220.2" x="283.08"> </tspan></text>
+</g>
+<g clip-path="url(#clip_915)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-220.2" x="467.88 473.88">99</tspan></text>
+</g>
+<g clip-path="url(#clip_916)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-220.2" x="479.88"> </tspan></text>
+</g>
+<g clip-path="url(#clip_917)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-206.4" x="82.44 89.04 92.4 98.4 104.4 108.36 113.64 116.64 120.6">Figure (4</tspan></text>
+</g>
+<g clip-path="url(#clip_918)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-206.4" x="126.6">5</tspan></text>
+</g>
+<g clip-path="url(#clip_919)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-206.4" x="132.72 136.68001 140.04001 143.04001 154.32 160.32 165.6 168.96 173.64002 182.28002 188.28002 194.28002 197.28002 203.40001 208.08002 213.36002 217.32003 220.32003 228.36002 234.36002 239.64002 243.00002 246.00002 249.36002 252.72002 257.40003 260.76 265.44 268.44 277.08 280.43998 283.79997 289.79997 292.79997 298.79997 302.75996 308.03996 314.03996 317.39994 322.67994 331.31993">): WhatsApp user Chat lists with preview.</tspan></text>
+</g>
+<g clip-path="url(#clip_920)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-206.4" x="334.32"> </tspan></text>
+</g>
+<g clip-path="url(#clip_921)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-206.4" x="464.88 470.88 476.88">100</tspan></text>
+</g>
+<g clip-path="url(#clip_922)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-206.4" x="482.88"> </tspan></text>
+</g>
+<g clip-path="url(#clip_923)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-192.6" x="82.44"> </tspan></text>
+</g>
+<g clip-path="url(#clip_924)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-192.6" x="473.88"> </tspan></text>
+</g>
+<g clip-path="url(#clip_925)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-178.8" x="82.44"> </tspan></text>
+</g>
+<g clip-path="url(#clip_926)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-178.8" x="473.88"> </tspan></text>
+</g>
+<g clip-path="url(#clip_927)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-165.12" x="82.44 90.48 95.16 101.880008 109.920009 112.920009 122.28001 129.6 132.6 140.64002 149.15882 157.19882 165.23883 173.15885">LIST OF TABLES</tspan></text>
+</g>
+<g clip-path="url(#clip_928)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-165.12" x="179.76"> </tspan></text>
+</g>
+<g clip-path="url(#clip_929)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-165.12" x="446.76 454.08003 462.72004 472.08006 480.12007 483.12007 491.76008">PAGE NO</tspan></text>
+</g>
+<g clip-path="url(#clip_930)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-165.12" x="501.12"> </tspan></text>
+</g>
+<g clip-path="url(#clip_931)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-141.72" x="82.44"> </tspan></text>
+</g>
+<g clip-path="url(#clip_932)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-141.72" x="473.88"> </tspan></text>
+</g>
+<g clip-path="url(#clip_933)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-127.92" x="82.44 89.76 95.04001 101.04001 104.40001 109.680019 112.680019 116.640018 122.640018 126.60001 129.96002 132.96002 141.00002 146.40003 151.68003 156.96002 162.96002 166.32003 169.32003 175.32003 180.60002 186.00003 189.96004 194.64003 197.76003 206.40003 212.40003 216.36003 222.36003 225.36003 228.72003 234.72003 237.72003 249.00003 255.00003 260.28004 263.64 268.32 276.96003 282.96003 288.96003 291.96003 295.92 302.04 306 311.28 317.4 322.08 325.43998 330.71998 335.39997">Table (1): Recent years work in WhatsApp forensics.</tspan></text>
+</g>
+<g clip-path="url(#clip_934)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-127.92" x="338.4"> </tspan></text>
+</g>
+<g clip-path="url(#clip_935)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-127.92" x="462.96">9</tspan></text>
+</g>
+<g clip-path="url(#clip_936)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-127.92" x="468.96">-</tspan></text>
+</g>
+<g clip-path="url(#clip_937)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-127.92" x="472.92 478.92">11</tspan></text>
+</g>
+<g clip-path="url(#clip_938)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-127.92" x="484.92"> </tspan></text>
+</g>
+<g clip-path="url(#clip_939)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-114.12" x="82.44 89.76 95.04 101.04 104.4 109.68 112.68 116.64 122.63999 126.59999 129.95999 132.95999 144.23999 150.35999 155.63999 158.99999 163.67998 172.31998 178.31998 184.31998">Table (2): WhatsApp </tspan></text>
+</g>
+<g clip-path="url(#clip_940)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-114.12" x="187.32 191.28 197.28 201.36 206.64 212.64 217.31999 220.68 225.95999 230.63999 233.63999 238.91999 244.91999 250.19998 253.55998 256.91999 262.19999 268.19999 274.31999 279.59999 284.27998">forensics challenges.</tspan></text>
+</g>
+<g clip-path="url(#clip_941)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-114.12" x="287.28"> </tspan></text>
+</g>
+<g clip-path="url(#clip_942)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-114.12" x="459.96 465.96">15</tspan></text>
+</g>
+<g clip-path="url(#clip_943)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-114.12" x="471.96">-</tspan></text>
+</g>
+<g clip-path="url(#clip_944)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-114.12" x="475.92">1</tspan></text>
+</g>
+<g clip-path="url(#clip_945)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-114.12" x="481.92">6</tspan></text>
+</g>
+<g clip-path="url(#clip_946)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-114.12" x="487.92"> </tspan></text>
+</g>
+<g clip-path="url(#clip_947)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-100.32" x="82.44 89.76 95.04001 101.04001 104.40001 109.680019 112.680019 116.640018 122.640018 126.60001 129.96002 132.96002 140.28003 146.28003 152.28003 155.64003 160.32003 163.32003 168.72003 174.00003 179.28003 185.28003 189.36003 194.64003 200.04004 206.04004 209.04004 213.00005 219.00005 222.96006 225.96006 237.24005 243.24005 248.52005 251.88005 256.56007 265.20008 271.20008 277.20008 280.32008 284.28007 290.28007 294.24006 299.52006 305.52006 310.20005 313.56004 318.96003 323.64">Table (3): Tools accuracy for WhatsApp forensics.</tspan></text>
+</g>
+<g clip-path="url(#clip_948)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-100.32" x="326.64"> </tspan></text>
+</g>
+<g clip-path="url(#clip_949)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-100.32" x="459.96">4</tspan></text>
+</g>
+<g clip-path="url(#clip_950)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-100.32" x="465.96">0</tspan></text>
+</g>
+<g clip-path="url(#clip_951)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-100.32" x="471.96">-</tspan></text>
+</g>
+<g clip-path="url(#clip_952)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-100.32" x="475.92 481.92">41</tspan></text>
+</g>
+<g clip-path="url(#clip_953)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-100.32" x="487.92"> </tspan></text>
+</g>
+<g clip-path="url(#clip_954)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="-86.52" x="82.44"> </tspan></text>
+</g>
+<g clip-path="url(#clip_955)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="-86.52" x="473.88"> </tspan></text>
+</g>
+<g clip-path="url(#clip_956)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 841.92)" font-size=".48" font-family="TimesNewRomanPSMT"><tspan y="-83.88" x="77.4"> </tspan></text>
+</g>
+</g>
+</svg>
