@@ -44,3 +44,12 @@
   height:200;"
 
 }
+
+.paper{
+  max-width: 70%;
+            height: auto;
+  display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+}
+
